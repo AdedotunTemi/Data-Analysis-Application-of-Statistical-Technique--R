@@ -1,0 +1,1 @@
+# Application-of-Statistical-Technique-on-Data-Analysis-R

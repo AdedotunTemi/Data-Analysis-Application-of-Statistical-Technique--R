@@ -19,6 +19,8 @@
 - [Conclusion](#conclusion)
 
 
+
+
 # Introduction
 The statistical analysis involves understanding the application of various statistical techniques and their real-life applications. this assessment focused on selecting and applying the appropriate statistical methods to this dataset ‘RetailSet’. The primary objective is to gain a comprehensive understanding of the dataset’s characteristics and extract valuable insights for informed decision-making in addressing business challenges. The analysis includes extensive Exploratory Data Analysis (EDA) using histograms and box plots to uncover patterns, correlations, and meaningful insights within the data.
 Additionally, the assessment employs comprehensive skills in hypothesis testing and statistical analysis to address and investigate complex business challenges. The statistical techniques used in the case study include parametric tests such as the t-test and ANOVA, as well as non-parametric tests like the Wilcoxon Rank-Sum Test and the Kruskal-Wallis Test. These techniques are applied to assess the impact of different variables on sales performance, evaluate the influence of sales methods on profit, and understand regional variations in sales performance. The findings from these analyses provide valuable insights for optimizing retail sales strategies, tailoring marketing and sales strategies to regional preferences, and optimizing resource allocation.

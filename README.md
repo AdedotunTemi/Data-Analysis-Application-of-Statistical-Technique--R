@@ -160,9 +160,11 @@ To optimize revenue effectively, I aim to explore the relationship between sales
 
 Methodology: I will employ the Pearson correlation, which enables me to measure the strength and direction of a linear relationship between two continuous variables: Sales and Profit. This statistical technique will uncover a meaningful and statistically significant connection between sales and the resulting profit, it will also offer valuable insights into the connection between these two critical variables, with values ranging from -1 (indicating a perfect negative correlation) to 1 (indicating a perfect positive correlation), and 0 indicating no correlation. This will aid in developing revenue optimization strategies
 
-![Screen Shot 2024-06-18 at 17 52 51](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/81c2125a-304c-4d2e-b0bf-b08ef077f094)
-![Screen Shot 2024-06-18 at 17 54 32](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/6119b749-abfa-4c08-a67d-721bc731f5fc)
-![Screen Shot 2024-06-18 at 17 54 53](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/aab53268-28d3-41be-9c04-3cd99d162ed1)
+![Screen Shot 2024-07-04 at 18 01 14](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/c386ae35-60d6-4cbe-8238-8ee53d5b2ebb)
+![Screen Shot 2024-07-04 at 18 01 41](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/88f07e9b-656c-4bb0-b3e3-6047a7576680)
+
+![Screen Shot 2024-07-04 at 18 02 23](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/3c116abd-5e8a-4e84-a79d-a3881ae9c7f4)
+
 
 Inference:The p-value of 0.5617 shows that there is no significant evidence to reject the null hypothesis of no correlation between “Sales” and “Profit.” which indicate that the observed correlation between sales and profit could likely be due to random chance. Therefore, based on this p-value, I fail to reject the null hypothesis, there is no strong linear relationship between sales and profit in the dataset. coefficient may indicate a numerical relationship between the variables, the p-value helps assess the statistical significance of that relationship. The correlation coefficient between “Sales” and “Profit” is approximately [0.01368672].
 This value is close to zero, suggesting a very weak positive correlation between sales and profit. A correlation coefficient close to 0 indicates a weak or no linear correlation. The correlation between sales and profit is very weak, suggesting that the two variables do not have a strong linear relationship. It implies that changes in sales are not strongly associated with changes in profit in a linear fashion based on the given dataset. Other factors or non-linear relationships may be influencing the relationship between sales and profit.
@@ -178,7 +180,8 @@ Hypotheses:
 Methodology: I’m examining profit across various regions, and the Kruskal-Wallis test will allow me to assess whether these regional differences are statistically significant without assuming a normal distribution in the data. Kruskal-Wallis test determine whether or not there is a statistically significant difference between the medians of three or more independent groups. which is suitable when dealing with a variable like profit that does not follow a normal distribution. To assess regional profit variations without assuming a normal distribution, using a non- parametric approach.
 
 ### Non-Parametric Tests - Kruskal-Wallis Test:
-![Screen Shot 2024-06-18 at 17 56 48](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/bd27e2ab-3375-4c5f-a9f0-9d7e260495e0)
+![Screen Shot 2024-07-04 at 18 02 49](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/5193e4e4-5d68-400f-9bed-aa0072b2a3b6)
+
 
 Inference: The Kruskal-Wallis test results shows that there is a significant difference in profit among different regions. (p-value < 2.2e-16). This indicates that there is strong evidence to reject the null hypothesis, suggesting that the median Profit across the various regions are significantly different. Therefore, I do have sufficient evidence to conclude that at least one of the groups has a different median profit from the others.
 
@@ -190,8 +193,9 @@ Hypotheses:
 • Alternative Hypothesis (H1): There is a significant difference in the median profit among different cities.
 Methodology: To investigate this, I will employ Mood’s Median Test, a non-parametric test suitable for comparing medians across multiple independent groups. This test does not assume a specific distribution of the data. It is a distribution-free test, and is well-suited for ordinal or categorical data. I’m going to examine the “City” frequency table to understand the distribution of the categorical variable “City”. To ensure that I have enough observations in each group.
 
-![Screen Shot 2024-06-18 at 17 57 47](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/8bb60f2b-c352-4d6d-83db-89b918445a3b)
-![Screen Shot 2024-06-18 at 17 58 05](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/19fa9ff2-e45a-48c2-a6e6-5123f02172f0)
+![Screen Shot 2024-07-04 at 18 03 52](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/51039262-6adc-4cb3-8731-8e682eefc564)
+![Screen Shot 2024-07-04 at 18 05 06](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/18f6e0a6-30eb-4c62-8eb9-6e1711304aa3)
+
 
 Inference: The Asymptotic K-Sample Brown-Mood Median Test was conducted to assess whether there are significant differences in profit across various cities. The low p-value (< 2.2e-16) indicates strong evidence against the null hypothesis (H0), that there is no significant difference in the median profit across different cities. Therefore, I reject the null hypothesis in favor of the alternative hypothesis (H1). This suggests that there is a significant difference in the median profit among the cities represented in the dataset. The results of the Mood’s Median Test imply that the profitability of the retail store varies significantly across different cities.
 
@@ -205,7 +209,8 @@ Hypotheses:
 Methodology: To achieve this, I’ll be using Chi-squared test, Chi-squared tests are especially useful when dealing with categorical data, where observations are classified into distinct categories. it’s helps in assesses whether the observed distribution of categories in one variable is independent of the categories in the other variable.
 
 ### Chi-Square Tests:
-![Screen Shot 2024-06-18 at 17 59 00](https://github.com/AdedotunTemi/Application-of-Statistical-Technique-on-Data-Analysis-R/assets/168010102/931b1d70-c419-4cd0-8e6d-9d08f7c262a7)
+![Screen Shot 2024-07-04 at 18 06 03](https://github.com/AdedotunTemi/Data-Analysis-Application-of-Statistical-Technique--R/assets/168010102/4393be07-4bbe-4415-b7f2-92d5d6cbcbb8)
+
 
 Inference: The contingency table summarizes the distribution of sales methods (“In-store,” “Online”, “In-store”) across different regions (Midwest, Northeast, South, Southeast, and west). The counts in the table represent the number of occurrences for each combination of region and sales method. The Pearson’s Chi-squared test was conducted to determine if there is an association between the region and the sales method. The test resulted in a chi-squared statistic of (463.17) with 8 degrees of freedom and a p-value less than 2.2e-16, Which indicate a highly significant association between the region and the sales method. Therefore, I reject the null hypothesis of independence and conclude that the region is associated with the sales method. The result suggests that the choice of sales method may be influenced by the region, and vice versa, in the retail dataset.
 

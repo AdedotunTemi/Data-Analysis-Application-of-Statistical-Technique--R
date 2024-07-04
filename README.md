@@ -14,7 +14,7 @@
 - [One Sample T.Test](#one-sample-t-test)
 - [Pearson Correlation](#pearson-correlation)
 - [Kruskal Wallis](#kruskal-wallis)
-- [Mood’s Median Test](moods-median-test)
+- [Moods Median Test](moods-median-test)
 - [Chi Squared](#chi-squared)
 - [Conclusion](#conclusion)
 
@@ -185,7 +185,7 @@ Methodology: I’m examining profit across various regions, and the Kruskal-Wall
 
 Inference: The Kruskal-Wallis test results shows that there is a significant difference in profit among different regions. (p-value < 2.2e-16). This indicates that there is strong evidence to reject the null hypothesis, suggesting that the median Profit across the various regions are significantly different. Therefore, I do have sufficient evidence to conclude that at least one of the groups has a different median profit from the others.
 
-## Mood’s Median Test
+## Moods Median Test
  The retail store aims to explore whether there are significant differences in profit across different cities, specifically investigating if the median profits vary among these locations such as birmingham, portland, louisvil and others. This analysis is crucial for tailoring localized strategies and resource allocation.
  
 Hypotheses:

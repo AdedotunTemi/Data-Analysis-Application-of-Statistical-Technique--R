@@ -1,0 +1,397 @@
+---
+title: "Portfolio Project "
+Name: Adedotun Teminiola Inaolaji
+date: "2023-11-14"
+output:
+  word_document: default
+  pdf_document: default
+  html_document:
+    df_print: paged
+---
+#Introduction
+The statistical analysis involves understanding the application of various statistical techniques and their real-life applications. this assessment focused on selecting and applying the appropriate statistical methods to this particular dataset 'RetailSet'. The primary objective is to gain a comprehensive understanding of the dataset's characteristics and extract valuable insights for informed decision-making in addressing business challenges. The analysis includes extensive Exploratory Data Analysis (EDA) using histograms and box plots to uncover patterns, correlations, and meaningful insights within the data. Additionally, the assessment employs comprehensive skills in hypothesis testing and statistical analysis to address and investigate complex business challenges. The statistical techniques used in the case study include parametric tests such as the t-test and ANOVA, as well as non-parametric tests like the Wilcoxon Rank-Sum Test and the Kruskal-Wallis Test. These techniques are applied to assess the impact of different variables on sales performance, evaluate the influence of sales methods on profit, and understand regional variations in sales performance. The findings from these analyses provide valuable insights for optimizing retail sales strategies, tailoring marketing and sales strategies to regional preferences, and optimizing resource allocation.
+
+ 
+#Background
+This dataset is originally obtained from Kaggle, This dataset is a retail dataset, and it has been processing and clean to ensure thorough analysis. The data transformation is executed with precision using Python.  the transformation ensures its reliability for statistical techniques. The dataset has 1800 observations and 7 variables  covering  attributes such as Year, Region, State, City, Product, Unit_Price, Units, Sales, Profit, Margin, and Sales_Method, it offers a rich source for uncovering meaningful insights. The reprocessing ensures accuracy, reliability, and relevance for a comprehensive Exploratory Data Analysis (EDA) aimed at revealing patterns and extracting valuable insights.
+
+#Import the retailset dataset
+```{r setup, include=FALSE}
+#importation of the data 
+retailset = read.csv("RetailSet_Data.csv") 
+View(retailset)
+```
+The dataset "RetailSet_Data.csv" has been successfully imported, The dataset contains valuable information for analysis, and I'll proceed with a comprehensive exploration to derive meaningful insights.
+
+#Performing an in-depth Exploratory Data Analysis (EDA) 
+To understand the recent changes in the retail store throught the data, It involves conducting a thorough Exploratory Data Analysis (EDA) on the RETAILSET dataset. By leveraging histograms and box plots to check the distribution, The aim to swiftly gain a clear understanding of the data's spread, central tendency, and potential outliers. This analysis will assist in identifying patterns, making well-informed decisions about data pre-processing, and extracting valuable insights for subsequent analyses.
+```{r}
+#Check the first five column to see the names and get familiar with the your dataset
+head(retailset) 
+names(retailset)
+```
+
+#Descriptive statistcs
+```{r}
+#Summary of the dataset for the descriptive statistcs
+#install.packages("psych")  
+library(psych) 
+describe(retailset)
+```
+After using describe to check the dataset,  It shows that there no missing value, all variable have 1800 value, The "Sales" variable in the dataset has a mean (average) value of of (151,158.11) and a median value of (151,894.76). These statistics indicate that the average sales and the middle point of the sales distribution is simliar. The similarity betweenthe mean and median shows a relatively symmetric distribution of sales values.
+
+
+
+#Ensure Data Quality: Detecting Duplicates and Missing Values
+```{r}
+# Check for any duplicated rows in the entire dataset
+your_dataset <- read.csv("RetailSet_Data.csv")  # Replace with your dataset loading code
+
+# Check for any duplicated rows in the entire dataset
+index_of_first_duplicate <- anyDuplicated(your_dataset)
+
+# Print the index of the first duplicated row
+if (index_of_first_duplicate == 0) {
+  cat("No duplicate rows found in the dataset.\n")
+} else {
+  cat("Dataset contains duplicate rows. Index of the first duplicated row:", index_of_first_duplicate, "\n")
+}
+
+#check for missing values in the entire dataset
+any(is.na(retailset))
+
+#check for missing values in a specific column
+any(is.na(retailset$Sales))
+```
+#Observation: 
+The dataset has been thoroughly analyzed to identify any duplicate rows, and I'm pleased to say that no duplicates Ire detected. The absence of duplicate rows ensures the integrity of the dataset and reduces redundancy in our upcoming analyses. I have also conducted a thorough check for missing values to confirm that the dataset is complete and dependable. This preliminary assessment provides a solid basis for future analyses and strengthens the cleanliness and reliability of our dataset. As I continue to conduct exploratory data analysis as well as statistical tests, the absence of duplicate rows and missing values instill confidence in the reliability of our findings.
+
+
+#Objective: Optimizing Retail Sales Strategies
+The retail store aims to extract valuable insights from the RetailSet dataset to enhance sales performance, focus on the target variables "Sales", "Unit_Price","Profit". Our objectives include identifying the most effective sales methods, evaluating the impact of promotional strategies based on a previous sale average (50), and assessing the influence of unit price, region, and unit quantity on sales and profit.
+
+#Problem Statement:
+1. I'm investigating the impact of sales methods, categorized as 'Online', 'Outlet', 'In-store,' on sales figures in a retail dataset. Understanding the impact of different sales methods on sales figures is crucial for optimizing our sale strategies and resource allocation.
+
+2. The retail store seeks to investigate the factors influencing profit outcomes, specifically examining whether the unit price, product, and region significantly contribute to variations in profits.
+
+3. The retail store is curious to know if the recent sales figures show a meaningful shift from our usual average of 100,000, potentially influenced by early bulk supply. In simpler terms, I want to see if there's a real impact on sales. Is the current sales average is significantly different from our usual benchmark of 100,000.
+
+4. To optimize revenue effectively, I aim to explore the relationship between sales and profit strategies. The key question is whether there is a clear connection between sales and the resulting profit.
+
+6.  The retail store aims to understand if there are significant differences in sales performance among different regions. This insight is crucial for tailoring marketing and sales strategies to regional preferences and optimizing resource allocation.
+
+7. The retail store aims to explore whether there are significant differences in profit across different cities, specifically investigating if the median profits vary among these locations. This analysis is crucial for tailoring localized strategies and resource allocation.
+
+7. The retail store is interested in assessing whether there is a significant association between the categorical variables "Region" and "Sales_Method" in the retailset dataset. 
+
+#Exploring Data Distributions and Parametric Assumptions for Informed Statistical Testing"
+I'll visually compare the distributions of Unit_Price, Price, Sales, and Profit using histograms. Afterward, I'll check if the data meets the assumptions for parametric tests, specifically normality and homogeneity of variances. This ensures the validity of potential parametric tests like t-tests or ANOVA for mean comparisons
+The shape of the histogram provides us a valuable insight into data distribution. For example, a histogram with a bell-shaped curve indicates a normal distribution, and a skeId histogram indicates a non-normal distribution
+```{r}
+par(mfrow = c(2, 3))  # Set up a 2x3 grid for plots
+hist(retailset$Unit_Price, main = "Unit Price", col = "skyblue", xlab = "Unit Price")
+hist(retailset$Sales, main = "Sales", col = "lightgreen", xlab = "Sales")
+hist(retailset$Profit, main = "Profit", col = "lightcoral", xlab = "Profit")
+boxplot(retailset$Unit_Price, main = "Unit Price", col = "skyblue" )
+boxplot(retailset$Sales, main = "Sales", col = "lightgreen")
+boxplot(retailset$Profit, main = "Profit", col = "lightcoral")
+par(mfrow = c(1, 1))  # Reset the layout
+```
+#Histrogram Observation: 
+The visual analysis of the histogram above reveals distinct distribution patterns within the dataset. Both unit price, Sales shows a symmetric, bell-shaped distribution that indicate of normal distribution. while, the profit is right-skewed, the peak of the distribution is on the right side,  which implying a slight bias towards higher profit values. These insights enhance our understanding of the dataset's underlying characteristics, providing valuable context for further analysis when deciding the statistical technique to use to solve the casestudy.
+
+#Boxplot Observation:
+Boxplots above shows that data is not normally distributed around the mean and is skewed towards one side. Profit boxplot above has a longer whisker and outliers on one side that shows a skewed distribution, while Unit_Price and Sales shows a roughly normal distribution as both whiskers are of similar length and the median is in the centre of the box, still appears to have unusual values as there are outliers.  However, profit plots is right-skewed (postively skewed) that show that profit does not meet one the parametric assumption.
+
+
+#Testing Parametric Test: checking for parametric Assumptions for the Target Variable
+This is a process of assessing whether the target variables (Sales, Unit_Price, Profit) satisfies the assumptions required for parametric tests. parametric tests assume specific characteristics about the underlying distribution of the data. These assumptions include normality, homogeneity of variances, and independence, among others. For this project I are checking whether the target variable meets only normality assumptions, which is crucial before applying parametric tests 
+
+#Assessing Normality Assumption: QQ Plot and Shapiro-Wilk Test
+"I will conduct a normality assessment using the Shapiro-Wilk test and also use QQ plot, a suitable approach given the sample size exceeding 30,  
+```{r}
+#Test for normality using Shapiro-Wilk test
+shapiro.test(retailset$Unit_Price)
+shapiro.test(retailset$Sales)
+shapiro.test(retailset$Profit)
+```
+#Interpretation: 
+Unit_price and Sales appears to follow a normal distribution, The p-values of Sale (0.82940) and p-value of Unit_Price (0.3848) are both higher than the significance level (0.05) based on the Shapiro-Wilk test, there is no strong evidence to conclude that the Sales and Unit_Price variables do not follow a normal distribution. A parametric test can now be conducted on the Sales and Unit_Price variables to gain insights into these two variables in the dataset. Currently, I are specifically testing for normality out of the four assumptions required for parametric tests. Confirming normality is crucial, as it implies that the remaining assumptions are satisfied based on the normal distribution of the available data.
+
+#Q-Q plot
+Other methods to test for normality include Q-Q plots. A Q-Q plot, short for quantile-quantile plot, compares the quantiles of the observed data against the quantiles of a theoretical normal distribution. It provides a visual assessment of how closely the data follows a normal distribution. The Q-Q plot for the target variables—Unit_Price, Sales, and Profit—will be plotted below to assess the normality assumption also.
+
+```{r}
+qqnorm(retailset$Sales)
+qqline(retailset$Sales)
+qqnorm(retailset$Unit_Price)
+qqline(retailset$Unit_Price)
+ 
+```
+#Observation: 
+The data points for (Sales and Unit_Price) roughtly fall along a straight diagonal line in a Q-Q plot, the show that dataset likely follows a normal distribution.
+
+
+#Problem Statement 1:
+I'm investigating the impact of sales methods, categorized as 'Online'. 'In-store, Outlet' on sales figures.
+
+#Hypothesis/Assumption
+H0 (Null Hypothesis): No significant difference in mean sales figures across sales methods; any observed variation is random
+H1 (Alternative Hypothesis): There's a Significant difference in mean sales figures across sales methods; variation is not solely random, indicating a meaningful relationship.
+
+#Methodology:  
+The statistical technique that will be employed is one-way ANOVA to compare the means of sales figures across different sales method groups. Anova (Analysis of Variance) test allows the comparison of the means of three or more independent groups, "Sales_Method" has more than two levels, so I can't use Two sample T-Test. That is why anova is the suitable one. Understanding how different sales methods influence sales performance is crucial for optimizing business strategies and resource allocation.
+#Parametric Test - Anova
+```{r}
+anova_result <- aov(Sales ~ Sales_Method, data = retailset)
+# Print the ANOVA table
+summary(anova_result)
+```
+#Inference: 
+The p-value of the Sales Method is 0.201, is not less 0.05, therefore the null hypothesis (HO) will not be rejected. This means there is no  significant difference in mean sales figures betweenthe "Online" and "In-store" sales methods.The observed variation in sales figures appears to be random, and there is insufficient support to claim a meaningful relationship betweensales method and sales performance in this dataset. This result indicates that, based on the current analysis, business strategies and resource allocation may not need to be adjusted based on the distinction between"Online" and "In-store" sales methods.
+
+
+#Problem Statement 2:
+The retail store seeks to investigate the factors influencing profit outcomes, specifically examining whether the unit price, product, and region significantly contribute to variations in profits. 
+
+#Multiple Regression:
+Hypotheses:
+Null Hypothesis (H0): The unit price, product, and region do not have a significant impact on profits.
+Alternative Hypothesis (H1): At least one of the variables (unit price, product, region) has a significant impact on profits.
+
+#Methodology: 
+To achieve this, a regression model will be used to assess the impact of these factors on profits. The model will help in understanding how unit price, product, and region all influence profit, which is crucial for optimizing business strategies and resource allocation.
+When using a categorical variable in multiple regression, it needs to be converted into dummy variables to facilitate its inclusion in the model. Categorical variables, like "Product" or "Region," have discrete categories without inherent numerical order. Regression models require numerical input, and dummy variables helps convert these categories into a format suitable for regression analysis. Each level of a categorical variable is represented by a binary indicator (dummy variable), and for a categorical variable with k levels, k−1 dummy variables are created. Including all levels of a categorical variable without creating dummy variables could lead to multicollinearity issues. Therefore, dummy variables help avoid perfect correlation betweenthe predictors, ensuring numerical stability in the regression model
+
+```{r}
+# Fit a multiple regression model for Profit
+retailset$Product <- as.factor(retailset$Product)
+retailset$Region <- as.factor(retailset$Region)
+
+model_profit <- lm(Profit ~ Unit_Price + Product + Region, data = retailset)
+
+# Summary of the regression model
+summary(model_profit)
+```
+#Interpration:
+The regression model aims to predict profit based on unit price, product type, and region. Here's the Inference of the key components:
+The p-values provide insights into the significance of the predictors in the multiple regression model. The intercept has a highly significant p-value, indicating that the estimated profit is significantly different from zero when all other predictors are zero. HoIver, the unit price does not have a significant effect on profit, as its p-value is (0.412). Among the product categories, "Men's Street FootIar" and "Women's Apparel" have significant positive effects on profit, as there p-value is obviously less than 0.05, while "Men's Athletic" and "Women's Athletic" do not. In terms of regions, "Northeast," "South," "Southeast," and "Ist" all have significant effects on profit.
+The overall model is significant, suggesting that at least one predictor variable significantly contributes to the model.The Multiple R-squared and Adjusted R-squared values suggest that the model explains around 14.86% of the variance in profit. The residuals have a mean of approximately zero, indicating a good fit. To confirm the fitting of the regression model without assumption, I are going to test the fitting using VIF (Variance Inflation Factor)
+
+#Variance Inflation Factor (VIF)
+To calculated the fitting the regression model. The VIF will help us to assesses the level of multicollinearity among the predictor variables in the regression model. Multicollinearity is a condition where two or more predictor variables in a regression model are highly correlated, which makes it challenging to determine the individual contribution of each variable, If high multicollinearity is detected, I may need to address it. This could involve removing one of the correlated variables, combining variables, or using other advanced techniques. 
+```{r}
+#Install and load the "car" package
+if (!requireNamespace("car", quietly = TRUE)) {
+  install.packages("car")
+}
+
+# Load the "car" package
+library(car)
+
+# Check for VIF
+vif_values <- vif(model_profit)
+
+# Display VIF values
+print(vif_values)
+```
+#Inference:
+For each predictor in my model unit_price, Product, and Region, The VIF values above indicate low levels of multicollinearity.Each predictors have their independence, That indicate a reliable Inference in the regression model. for Unit Price is approximately 1.0059. with a GVIF close to 1, there is minimal evidence of multicollinearity associated with Unit Price, suggesting that it does not significantly contribute to increased variance in the regression coefficients. The VIF for Product is around 1.0098. While there is a slight increase in variance due to potential multicollinearity, it remains relatively low. The seven degrees of freedom indicate the number of levels in the categorical variable "Product. The VIF for Region is approximately 1.0090. Similar to Product, there is a minor increase in variance, but it remains at an acceptable level. The four degrees of freedom correspond to the levels in the categorical variable "Region
+
+#Problem Statement 3
+The retail store is curious to know if the recent sales figures show a meaningful shift from the usual average of 100,000, potentially influenced by early bulk supply. In simpler terms, I want to see if there's a real impact on sales. To do this, I're running a one-sample t-test, checking if the current sales average is significantly different from the previous average sale of 100,000.
+
+Hypotheses
+Null Hypothesis (H0): The mean sales figure remains unchanged and equals $100,000.
+Alternative Hypothesis (H1): There is a significant difference in the mean sales figures, suggesting an impact from early bulk supply.
+
+```{r}
+# One Sample T-Test for Sales
+# Hypothesized mean
+previous_average_sales = 100000
+# HO: Mean of sales = 100000
+# Hi: Mean of sales ≠ 100000
+
+# Check by performing One sample t-test
+ t.test(retailset$Sales, mu = previous_average_sales)
+ 
+```
+#Inference:
+The p-value (2.2e-16) is less than our signifance level =0.05, The null hypothesis is rejected, this shows sufficient evidence that the mean of the recent sales figures significantly differs from our previous sales average of $100,000. The P-Value shows that tangible impact of early bulk supply on the current sales figure. To understand if there is an increase or decrease I will conduct a One-Tailed Test, for greate and less.
+
+
+
+#To perform a one-tailed test with the one-sample t-test
+Testing using a one-tailed test to know whether the recent sales figures are significantly greater or less than the usual average of $100,000.,
+```{r}
+# Check by performing One sample t-test (One-Tailed)
+ # HO: Mean of sales = 100000
+# Hi: Mean of sales > 100000 (for a left-tailed test)
+
+
+t_test_result <- t.test(retailset$Sales, mu = previous_average_sales, alternative = "greater")
+
+
+# Print the result
+print(t_test_result)
+```
+
+#Inference: 
+In the conducted one-tailed test above, the alternative hypothesis state that the true mean of sales is greater than $100,000. The extremely low p-value (< 2.2e-16) indicate strong evidence to conclude that our current sales average figure are significantly higher than the previous average sales of 100,000.
+
+
+#Problem Statement 4:
+To optimize revenue effectively, I aim to explore the relationship between sales and profit strategies. The key question is whether there is a clear connection between sales and the resulting profit.
+
+#Hypothesis:
+Null Hypothesis (H0): There is no significant correlation betweensales and profit.
+Alternative Hypothesis (H1): There is a significant correlation betweensales and profit
+
+#Methodology:
+I will be employ the Pearson correlation , which enables us to measure the strength and direction of a linear relationship between two continuous variables: Sales and Profit. This statistical technique will uncover a meaningful and statistically significant connection between sales and the resulting profit, it will also offer valuable insights into the connection between these two critical variables, with values ranging from -1 (indicating a perfect negative correlation) to 1 (indicating a perfect positive correlation), and 0 indicating no correlation. This will aid in developing revenue optimization strategies
+
+```{r}
+#Pearson correlation coefficient
+#install.packages("corrplot")
+library(corrplot)
+
+# Perform Pearson correlation test
+cor_test_result <- cor.test(retailset$Sales, retailset$Profit, method = "pearson")
+
+# Access the correlation coefficient and p-value from the result
+cor_coefficient <- cor_test_result$estimate
+p_value <- cor_test_result$p.value
+
+# Print the correlation coefficient and p-value 
+print(paste("Pearson correlation coefficient:", cor_coefficient))
+print(paste("P-value:", p_value))
+
+# Create a correlation matrix
+correlation_matrix <- cor(retailset[, c("Sales", "Profit")])
+
+# Print the correlation matrix
+print("Correlation Matrix:")
+print(correlation_matrix)
+
+# Plotting the heatmap
+corrplot(
+  correlation_matrix,
+  method = "color",
+  col = colorRampPalette(c("blue", "white", "red"))(100),
+  tl.col = "black",
+  tl.srt = 25,
+)#
+```
+#Inference: 
+The p-value of 0.5617 shows that there is no significant evidence to reject the null hypothesis of no correlation between"Sales" and "Profit."  which indicate that the observed correlation between sales and profit could likely be due to random chance. Therefore, based on this p-value, I fail to reject the null hypothesis, there is no strong linear relationship between sales and profit in the dataset.  coefficient may indicate a numerical relationship between the variables, the p-value helps assess the statistical significance of that relationship. The correlation coefficient between"Sales" and "Profit" is approximately [0.01368672]. This value is close to zero, suggesting a very weak positive correlation between sales and profit. A correlation coefficient close to 0 indicates a weak or no linear correlation. The correlation between sales and profit is very Iak, suggesting that the two variables do not have a strong linear relationship. It implies that changes in sales are not strongly associated with changes in profit in a linear fashion based on the given dataset. Other factors or non-linear relationships may be influencing the relationship between sales and profit. 
+
+
+
+#Problem Statement 5
+The retail store aims to understand if there are significant differences in profit outcomes among different regions. This essential for providing valuable insights for optimizing business strategies across diverse geographic areas.
+
+#Methodology: 
+I'm examining profit across various regions, and the Kruskal-Wallis test will allow me to assess whether these regional differences are statistically significant without assuming a normal distribution in the data. Kruskal-Wallis test determine whether or not there is a statistically significant difference between the medians of three or more independent groups. which is suitable when dealing with a variable like profit that does not follow a normal distribution. To assess regional profit variations without assuming a normal distribution, using a non-parametric approach.    
+#Hypotheses:
+Null Hypothesis (H0): There is no significant difference in profit among different regions.
+Alternative Hypothesis (H1): There is a significant difference in profit among different regions.
+
+#Non-Parametric Tests- kruskal-Wallis Test: 
+```{r}
+#kruskal-Wallis Test: 
+  kruskal_test_result <- kruskal.test(Profit ~ Region, data = retailset)
+
+# Print the results
+print(kruskal_test_result)
+```
+#Inference: 
+The Kruskal-Wallis test results shows that there is a significant difference in profit among different regions. (p-value < 2.2e-16). This indicates that there is strong evidence to reject the null hypothesis, suggesting that the median Profit across the various regions are significantly different. Therefore, I do have sufficient evidence to conclude that at least one of the groups has a different median profit from the others. 
+
+
+#Problem Statement 6
+The retail store aims to explore whether there are significant differences in profit across different cities, specifically investigating if the median profits vary among these locations such as birmingham, portland, louisvil and others... This analysis is crucial for tailoring localized strategies and resource allocation.
+
+#Hypotheses:
+Null Hypothesis (H0): There is no significant difference in the median profit among different cities.
+Alternative Hypothesis (H1): There is a significant difference in the median profit among different cities.
+
+#Methodology:
+To investigate this, I will employ Mood's Median Test, a non-parametric test suitable for comparing medians across multiple independent groups. This test does not assume a specific distribution of the data. It is a distribution-free test, and is well-suited for ordinal or categorical data. I'm going to examine the City frequency table to understand the distribution of the categorical variable "City". Ensure that you have a sufficient number of observations in each group
+```{r}
+# Install and load the coin package
+#install.packages("coin", type = "binary")
+library(coin)
+
+#create a frequency table for your categorical variable.
+city_frequency <- table(retailset$City)
+print(city_frequency)
+
+# Convert the "City" variable to a factor
+retailset$City <- as.factor(retailset$City)
+
+# Perform Mood's Median Test
+moods_test_result <- median_test(retailset$Profit ~ retailset$City)
+
+# Print the result
+print(moods_test_result)#
+
+```
+#Inference: 
+The Asymptotic K-Sample Brown-Mood Median Test was conducted to assess whether there are significant differences in profit across various cities. The low p-value (< 2.2e-16) indicates strong evidence against the null hypothesis (H0), that there is no significant difference in the median profit across different cities. Therefore, I reject the null hypothesis in favor of the alternative hypothesis (H1). This suggests that there is a significant difference in the median profit among the cities represented in the dataset. The results of the Mood's Median Test imply that the profitability of the retail store varies significantly across different cities.
+
+          
+                                                       
+#Problem Statement 7
+The retail store is interested in assessing whether there is a significant association betweenthe categorical variables "Region" and "Sales_Method" in the retailset dataset. Specifically, the goal is to determine if the distribution of sales methods varies across different regions. 
+
+#Hypotheses:
+Null Hypothesis (H0): There is no significant association between"Region" and "Sales_Method."
+Alternative Hypothesis (H1): There is a significant association between"Region" and "Sales_Method."
+
+#Methodology: 
+To achieve this, I'll be using Chi-squared test, Chi-squared tests are especially useful when dealing with categorical data, where observations are classified into distinct categories.. it's helps in  assesses whether the observed distribution of categories in one variable is independent of the categories in the other variable. 
+
+#Chi-Square Tests:
+```{r}
+#Create a contingency table
+contingency_table <- table(retailset$Region, retailset$Sales_Method)
+contingency_table
+
+#Chi-squared test
+chi_squared_test_result <- chisq.test(contingency_table)
+
+#Display the results
+chi_squared_test_result
+```
+#Observation: 
+The contingency table summarizes the distribution of sales methods ("In-store," "Online", "In-store") across different regions (Midwest, Northeast, South, Southeast, and west). The counts in the table represent the number of occurrences for each combination of region and sales method. 
+The Pearson's Chi-squared test was conducted to determine if there is an association between the region and the sales method. The test resulted in a chi-squared statistic of (463.17) with 8 degrees of freedom and a p-value less than 2.2e-16, Which indicate a highly significant association between the region and the sales method. Therefore, I reject the null hypothesis of independence and conclude that the region is associated with the sales method. The result suggests that the choice of sales method may be influenced by the region, and vice versa, in the retail dataset.
+
+
+#Conclusion:
+Statistical techniques applied on the ‘Retailset’ dataset has really provides valuable insights into retail dynamics. The analysis covers exploratory data analysis, parametric and non-parametric tests, regression modeling, and chi-square tests. The findings generate from this analysis will contribute to the informed decision-making processes for optimizing retail sales strategies, It enable me to have understand of the impact of different variables. The results indicate so many insight information, showing an evident that there is significant association between the region and the sales method, also suggested that the choice of sales method may be influenced by the region, and vice-versa, in the retail dataset. 
+I’m able to derive many answers to the business problem statement, Additionally, the regression model has also help us to understand and assess the impact of the unit price, product, and region on profits, providing further insights into the factors influencing profit outcomes in the retail store. The effective application of statistical techniques is essential for extracting meaningful insights, validating hypotheses, and making informed decisions in a data-driven environment. Understanding the nature of the data, select the appropriate statistical tools, and evaluate your assumptions critically to ensure the accuracy and validity of your analytical results. As we move into the era of large data, statistical literacy has become a key competency for researchers and analysts, also as decision-makers, to make the most of data and achieve meaningful results.
+
+   
+
+#Reference:
+The Chi Square Test:Diana Mindrila, Ph.D. Phoebe Balentyne, M.Ed. Based on Chapter 23 of The Basic Practice of Statistics (6th ed.)
+https://www.Istga.edu/academics/research/vrc/assets/docs/ChiSquareTest_LectureNotes.pdf
+
+An Explanation of P-Values and Statistical Significance https://www.statology.org/p-values-statistical-significance/
+
+Understanding ANOVA in R https://bookdown.org/steve_midway/DAR/understanding-anova-in-r.html
+
+Analysis of Ordinal Categorical Data   https://www.google.co.uk/books/edition/_/7zVaD9EjkHkC?hl=en&sa=X&ved=2ahUKEwi9jLrG89WDAxXj7LsIHTQ4CF4Q8fIDegQIFhAH
+
+Understanding the Uses for Mood’s Median Test https://www.isixsigma.com/hypothesis-testing/understanding-uses-moods-median-test/
+
+Linear Regression Analysis with JMP and R https://www.google.co.uk/books/edition/Linear_Regression_Analysis_with_JMP_and/5lZZDwAAQBAJ?hl=en&gbpv=0
+
+The Five Assumptions of Multiple Linear Regression https://www.statology.org/multiple-linear-regression-assumptions/
+
+How to Use rcorr in R to Create a Correlation Matrix https://www.statology.org/rcorr-r/
+
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

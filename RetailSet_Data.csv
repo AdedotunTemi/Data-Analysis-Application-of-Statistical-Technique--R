@@ -1,0 +1,1801 @@
+Year,Region,State,City,Product,Unit_Price,Units,Sales,Profit,Margin,Sales_Method
+2021,South,Alabama,Birmingh,Men's Street Footwear,27.45567355,450.0,129235.4175,63000,35,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,12.74288523,250.0,117135.4008,35000,35,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,18.0596478,250.0,98520.82167,30000,40,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,11.59852194,100.0,154932.8777,10500,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,13.7323804,150.0,146175.5607,18750,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,19.29225307,250.0,217042.235,40000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,22.17812035,500.0,182068.0428,70000,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,27.03556613,150.0,172086.8593,21000,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,19.64715669,200.0,133150.5734,24000,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,23.30315365,75.0,195599.3561,7875,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,19.23715813,150.0,156783.9511,18750,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,23.08450049,250.0,139243.9837,40000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,22.65893283,470.0,130305.8658,65800,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,20.23111458,175.0,205892.9711,24500,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,20.24637432,200.0,142661.9479,24000,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,13.59654886,50.0,88107.38804,5250,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,15.71730219,100.0,162752.9409,12500,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,13.80043779,200.0,149396.785,32000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,12.733538,450.0,121368.3525,63000,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,19.17951837,150.0,193644.0976,21000,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,24.02312636,150.0,156795.5256,18000,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,13.83593194,75.0,118155.8199,7875,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,17.0336763,75.0,124271.9486,9375,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,27.80273401,225.0,144603.9488,36000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,13.08035306,495.0,120472.9296,95288,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic,24.83746195,200.0,77977.42972,35000,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,22.92838731,175.0,172774.6238,31500,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,20.33604038,125.0,242678.4496,16875,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,26.41352048,150.0,123897.653,20625,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,10.19416156,275.0,139494.0159,66000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,27.53283515,525.0,220740.0662,101063,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,20.53684146,275.0,130273.8313,48125,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,23.86120488,200.0,125930.9328,36000,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,25.21245118,175.0,95629.76498,23625,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,13.57010453,175.0,73105.14585,24063,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,14.14754581,325.0,2667.531033,78000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,14.6038307,550.0,227449.2998,105875,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,20.10972965,300.0,102984.904,52500,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,12.23331276,225.0,150010.6331,40500,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,29.16615682,175.0,145701.4704,23625,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,24.03293352,200.0,209162.3828,27500,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,14.26520862,375.0,197726.3915,90000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,26.48798376,525.0,227484.3477,101063,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,27.20576428,300.0,112956.4907,52500,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,16.6300716,225.0,164303.8794,40500,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,23.26940944,175.0,109632.659,23625,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,21.78981279,150.0,198926.2302,20625,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,12.03002527,325.0,206240.1918,78000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,27.55487194,450.0,148311.2437,86625,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,20.3589005,250.0,194025.0322,43750,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,16.61882091,150.0,112819.6727,27000,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic,13.12284705,125.0,136076.6403,16875,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,18.09967854,125.0,172372.3034,17188,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,12.33899581,225.0,159268.516,54000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,19.62584968,400.0,79132.68755,84000,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,23.52268987,225.0,127920.2721,43313,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,20.6670473,125.0,143125.609,27500,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,21.51403505,100.0,183823.8134,16500,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,12.11219422,100.0,128368.798,16250,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,17.41132158,225.0,114166.1212,63000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,17.00643237,375.0,168542.6238,85313,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,22.42941989,200.0,212756.146,38500,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,21.44897782,195.0,123898.8936,42900,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,29.31314614,175.0,241169.0577,28875,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,27.45315853,150.0,173700.6091,24375,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,7.1168597,250.0,173260.9603,70000,40,Outlet
+2021,Northeast,Maine,Portland,Men's Street Footwear,17.0426286,475.0,208164.5812,108063,35,Outlet
+2021,Northeast,Maine,Portland,Men's Athletic Footwear,8.04604143,275.0,205013.9936,52938,35,Outlet
+2021,Northeast,Maine,Portland,Women's Street Footwear,18.53514446,250.0,238021.5134,55000,40,Outlet
+2021,Northeast,Maine,Portland,Women's Athletic Footwear,12.45514869,200.0,160348.5103,33000,30,Outlet
+2021,Northeast,Maine,Portland,Men's Apparel,19.44888751,200.0,160791.8993,32500,25,Outlet
+2021,Northeast,Maine,Portland,Women's Apparel,14.45596949,300.0,116909.487,84000,40,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,15.47949424,300.0,215623.3325,49500,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,16.25372032,575.0,182489.7805,110688,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,14.64968665,225.0,111328.1476,43313,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,17.61198559,275.0,149999.8068,30938,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,22.21674522,175.0,180741.0833,21875,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,7.150550159,250.0,194173.2561,40625,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,13.33613473,350.0,203228.9982,57925,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,12.92737913,545.0,236587.8618,104997,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,23.47158781,250.0,121175.464,48375,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,19.92664541,275.0,129083.3636,30237,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,8.415667725,125.0,236203.3686,15250,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,13.97157068,175.0,88260.06955,28137,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,15.62189032,275.0,160557.6621,45512,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,16.67691059,525.0,128696.3304,101887,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,20.7557201,225.0,153168.8943,43237,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,4.735928294,225.0,250051.4424,25012,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,13.84592245,150.0,209307.6346,18500,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,16.3545652,150.0,193304.379,22000,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,29.78327986,300.0,153734.7998,45500,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,10.05127902,570.0,127538.6956,129705,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,18.59554455,275.0,118605.4991,57650,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,13.15574613,300.0,119783.6864,41650,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,14.6282611,250.0,79783.82091,34375,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,20.72259452,275.0,215268.0541,44787,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,17.99840434,400.0,160354.0204,84800,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,13.03610988,650.0,135575.9833,147225,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,10.97585115,400.0,142648.3479,84400,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,26.89426835,325.0,269414.7879,44787,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,18.52291557,300.0,161751.2671,41650,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,15.32146867,300.0,234606.6822,48950,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,25.39169316,450.0,90938.48245,94150,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,15.96466638,675.0,131032.6133,153387,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,17.25740501,425.0,161272.7981,89550,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,17.83570613,350.0,156764.233,48925,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,18.01371122,300.0,106524.3499,41650,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,20.3341626,325.0,199683.5637,52112,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,21.68653589,500.0,161062.683,105500,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,21.29747536,650.0,211632.1734,147225,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,24.16406937,425.0,190150.1283,89550,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,20.35060989,350.0,130369.2857,48925,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,15.83189869,250.0,111841.9382,34375,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,22.37037529,225.0,153678.5663,36462,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,18.64931024,400.0,145855.4983,84800,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,15.04227715,525.0,65346.19686,119412,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,20.96325157,325.0,178430.985,68950,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,21.65323154,225.0,75065.22475,30237,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,18.4181964,200.0,190530.8921,27100,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,19.37050037,200.0,125645.5871,32300,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,4.800428084,300.0,155273.7702,63100,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,37.86783223,450.0,59321.55236,110150,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,16.68180454,275.0,198961.238,62787,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,13.60800149,175.0,24851.9922,28137,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,19.75713911,150.0,110552.9675,24750,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,18.18403837,150.0,93523.55504,28125,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,21.00119986,275.0,52019.91525,66200,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,25.01771243,425.0,149920.5327,111187,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,15.93401178,300.0,140788.7395,68950,35,Outlet
+2021,West,Alaska,Anchorag,Women's Street Footwear,25.93494846,320.0,183436.8431,52080,25,Outlet
+2021,West,Alaska,Anchorag,Women's Athletic Footwear,20.92370391,300.0,191761.5728,48950,25,Outlet
+2021,West,Alaska,Anchorag,Men's Apparel,22.5136547,275.0,231170.0522,51062,25,Outlet
+2021,West,Alaska,Anchorag,Women's Apparel,25.35549366,375.0,179864.1037,90000,30,Outlet
+2021,West,Alaska,Anchorag,Men's Street Footwear,21.00367665,600.0,180864.8179,157500,35,Outlet
+2021,West,Alaska,Anchorag,Men's Athletic Footwear,14.32533508,400.0,42039.42309,91600,35,Outlet
+2021,Southeast,North Ca,Charlott,Women's Street Footwear,26.14250325,725.0,119755.3981,174350,40,Online
+2021,Southeast,North Ca,Charlott,Women's Athletic Footwear,17.60129153,675.0,141979.7241,162050,40,Online
+2021,Southeast,North Ca,Charlott,Men's Apparel,17.35379207,675.0,190538.6101,165725,35,Online
+2021,Southeast,North Ca,Charlott,Women's Apparel,12.94630521,775.0,214513.3431,290812,50,Online
+2021,Southeast,North Ca,Charlott,Men's Street Footwear,15.88115384,775.0,208056.6447,108712,40,Online
+2021,Southeast,North Ca,Charlott,Men's Athletic Footwear,15.89197654,575.0,146414.3815,70012,35,Online
+2021,Southeast,North Ca,Charlott,Women's Street Footwear,26.45846436,575.0,171295.9316,57437,40,Online
+2021,Southeast,North Ca,Charlott,Women's Athletic Footwear,26.87914038,425.0,175979.6505,51275,40,Online
+2021,Southeast,North Ca,Charlott,Men's Apparel,16.20417328,475.0,158572.4092,74137,35,Online
+2021,Southeast,North Ca,Charlott,Women's Apparel,5.563355069,575.0,143505.4605,100012,50,Online
+2021,Southeast,North Ca,Charlott,Men's Street Footwear,19.85751077,825.0,224967.8241,115887,40,Online
+2021,Southeast,North Ca,Charlott,Men's Athletic Footwear,17.8713004,475.0,38916.27706,58662,35,Online
+2021,Southeast,North Ca,Charlott,Women's Street Footwear,20.18974931,525.0,156415.8329,52312,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,21.53544994,375.0,175262.8921,45125,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,9.102113553,450.0,148155.5172,70025,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,14.52956241,550.0,211612.4349,82650,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,22.91499579,770.0,108753.9287,92310,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,23.01167743,450.0,172414.9035,47350,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,12.62153305,475.0,170087.0244,38500,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,18.25018193,325.0,119006.9923,32125,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,14.50813136,375.0,153523.7245,52500,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,5.741821797,475.0,222833.1078,71425,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,17.05480278,725.0,144887.0277,87175,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,17.60830438,425.0,143559.2314,44275,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,22.1798402,425.0,182406.1668,34500,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,27.09143436,350.0,88715.03718,35750,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,20.12199143,375.0,170450.3576,59687,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,22.69935576,525.0,201008.1289,91837,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,24.10826018,795.0,117462.1934,143577,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,25.32031465,500.0,226589.3254,78250,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,19.87634416,475.0,246322.5322,76900,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,26.25841109,425.0,239331.9185,68700,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,14.71844933,450.0,80154.74338,78250,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,8.583015778,550.0,135950.0378,151025,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,23.60389235,800.0,232544.6272,160000,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,21.26870138,550.0,155206.2509,86475,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,23.69563192,525.0,88953.88469,105625,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,10.45656124,500.0,169998.6083,100500,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,25.75433551,500.0,53470.41474,113250,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,7.522282128,675.0,96004.64463,236725,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,13.50253435,900.0,167998.9843,234850,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,9.866181938,650.0,210402.101,136900,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,10.98305696,575.0,188523.0872,126162,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,19.90174814,525.0,198234.0122,115887,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,20.79826981,550.0,100992.926,125575,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,10.68381847,725.0,156204.821,253075,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,16.65015828,875.0,222885.6333,227687,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,16.80377695,650.0,232368.4534,136900,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,12.25892103,575.0,122575.8761,126162,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,22.00883986,525.0,195018.8331,94362,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,23.4747629,500.0,197179.3688,96750,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,18.76850123,675.0,173255.2509,202050,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,25.75476554,775.0,204459.2196,170262,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,19.87261741,575.0,82754.33285,100875,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,17.46496031,475.0,115240.7234,47187,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,18.05312526,450.0,176764.4231,45125,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,18.14035002,450.0,90428.31163,55575,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,26.19034375,550.0,159745.2075,110200,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,13.5208841,725.0,194089.6998,116900,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,22.74428433,550.0,131955.9406,57650,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,11.17338532,425.0,117401.0341,51275,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,8.994824449,400.0,135138.5107,48200,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,22.54513147,400.0,201167.311,56600,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,25.38719145,525.0,210273.5141,105100,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,21.06274683,675.0,136148.9117,94362,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,19.46437987,500.0,121784.3107,43250,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,2.318446632,445.0,100722.3089,62557,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,18.60434135,500.0,166371.024,130250,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,21.24657223,475.0,146707.5525,133800,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,14.57896641,575.0,265317.5512,230600,50,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,10.8763284,825.0,107920.4476,247187,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,26.73587758,625.0,157094.9149,142062,35,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,23.6603884,500.0,128179.8981,80000,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,16.47822305,300.0,194639.026,42200,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,17.33442647,300.0,167650.8084,36000,40,Online
+2021,Midwest,Ohio,Columbus,Women's Athletic Footwear,14.46343841,150.0,112583.8048,21250,40,Online
+2021,Midwest,Ohio,Columbus,Men's Apparel,22.30220882,200.0,54482.59257,35000,35,Online
+2021,Midwest,Ohio,Columbus,Women's Apparel,21.40639897,300.0,150402.7379,48200,40,Online
+2021,Midwest,Ohio,Columbus,Men's Street Footwear,24.52505083,550.0,257655.6039,88200,40,Online
+2021,Midwest,Ohio,Columbus,Men's Athletic Footwear,20.59104005,200.0,195110.1109,28000,35,Online
+2021,Midwest,Ohio,Columbus,Women's Street Footwear,20.0016987,250.0,157023.598,30500,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,19.38837232,125.0,97898.28544,17375,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,20.24608174,200.0,97581.2052,35000,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,19.69901909,300.0,208035.1262,48200,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,17.75330181,520.0,179605.627,93340,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,25.78238107,225.0,114963.4658,35012,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,11.9926917,250.0,193089.6585,35750,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,21.37978684,100.0,84629.34259,16000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,16.77635378,150.0,90654.1457,28250,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,20.40231497,250.0,165448.1927,45125,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,19.88272069,475.0,45901.70962,85137,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,14.74302721,175.0,167505.8424,27875,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,13.59571869,175.0,132566.5596,28000,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,9.244555087,100.0,116542.8291,18500,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,23.34015963,125.0,55310.98026,21250,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,11.40917499,250.0,234485.0193,40000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,19.60056717,520.0,190308.7269,104600,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,21.26197268,225.0,138228.7331,35012,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,13.24348601,200.0,156219.6633,32000,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,15.5749259,125.0,119976.5892,20000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,22.97587322,150.0,149480.3773,26500,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,12.39571921,275.0,134320.9277,60512,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,26.12028534,525.0,201146.3881,84100,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,14.03251417,275.0,208191.2868,33625,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,12.41807032,225.0,76651.93928,27750,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,20.44617427,200.0,65965.39481,24000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,25.51835508,200.0,87739.34004,35000,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,6.772658109,375.0,236798.2346,82062,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,19.38943224,600.0,138882.0668,120000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,21.09162333,350.0,177177.0727,55575,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,15.10319429,275.0,184692.2291,44100,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,22.97997104,225.0,137798.8693,36000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,8.973954551,250.0,137499.438,43250,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,15.62593538,425.0,201516.3903,93337,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,19.43914264,575.0,164546.0758,115875,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,18.9334541,350.0,153021.014,55575,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,13.56217969,275.0,40652.67001,44100,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,23.05258958,250.0,136664.4856,40000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,16.26236402,225.0,174004.4198,39125,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,13.26130296,400.0,192207.4676,88200,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,19.39286641,525.0,76195.41005,105625,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,25.24779301,325.0,185417.9815,51462,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,19.01233935,225.0,107823.2188,31875,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,21.24706247,200.0,57786.77722,28000,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,17.84634166,200.0,43921.50563,31000,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,17.64185153,275.0,203574.7424,55375,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,30.04141909,450.0,166246.3778,99475,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,17.3217451,275.0,154922.6347,43237,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,21.01273769,175.0,219775.8686,31875,40,Online
+2021,Southeast,Kentucky,Louisvil,Women's Athletic Footwear,26.74830531,150.0,74154.7099,27750,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Apparel,19.72337128,150.0,110757.3177,28250,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Apparel,12.75865403,275.0,159275.3385,60512,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Street Footwear,9.290073586,425.0,93773.19071,85125,40,Online
+2021,Southeast,Kentucky,Louisvil,Men's Athletic Footwear,15.47208666,275.0,73878.84193,38100,35,Online
+2021,Southeast,Kentucky,Louisvil,Women's Street Footwear,15.33696338,220.0,138349.7216,39900,40,Online
+2021,Northeast,Massachu,Boston,Women's Apparel,14.69222856,225.0,209980.9812,47575,30,In-store
+2021,Northeast,Massachu,Boston,Men's Street Footwear,3.726138741,375.0,149851.4696,73437,30,In-store
+2021,Northeast,Massachu,Boston,Men's Athletic Footwear,19.50788627,300.0,174576.5719,49650,30,In-store
+2021,Northeast,Massachu,Boston,Women's Street Footwear,19.0282412,295.0,209518.6495,40622,25,In-store
+2021,Northeast,Massachu,Boston,Women's Athletic Footwear,20.86175485,275.0,103643.3123,37512,25,In-store
+2021,Northeast,Massachu,Boston,Men's Apparel,17.400235,250.0,140437.7415,40625,25,In-store
+2021,Northeast,Massachu,Boston,Women's Apparel,14.96772302,350.0,185645.5297,73450,30,In-store
+2021,Northeast,Massachu,Boston,Men's Street Footwear,12.96881402,575.0,112774.7259,112737,30,In-store
+2021,Northeast,Massachu,Boston,Men's Athletic Footwear,6.403586714,375.0,189188.7261,61062,30,In-store
+2021,Northeast,Massachu,Boston,Women's Street Footwear,11.42924991,350.0,131168.8221,48925,25,In-store
+2021,Northeast,Massachu,Boston,Women's Athletic Footwear,19.37285273,300.0,170073.9381,41650,25,In-store
+2021,Northeast,Massachu,Boston,Men's Apparel,19.92092308,300.0,201457.3863,48950,25,In-store
+2021,Northeast,Massachu,Boston,Women's Apparel,19.30866806,400.0,201835.6109,84800,30,In-store
+2021,Northeast,Massachu,Boston,Men's Street Footwear,19.29314597,525.0,66027.45921,106362,45,In-store
+2021,Northeast,Massachu,Boston,Men's Athletic Footwear,15.84752066,325.0,70624.93118,65462,45,In-store
+2021,Northeast,Massachu,Boston,Women's Street Footwear,8.099128698,325.0,112453.6785,39137,35,In-store
+2021,Northeast,Massachu,Boston,Women's Athletic Footwear,17.62441405,175.0,62458.69506,24000,35,In-store
+2021,Northeast,Massachu,Boston,Men's Apparel,14.2785832,225.0,211254.7514,43237,35,In-store
+2021,Northeast,Massachu,Boston,Women's Apparel,32.69147049,325.0,256631.2656,58462,40,In-store
+2021,Northeast,Massachu,Boston,Men's Street Footwear,17.28589235,575.0,132726.0422,116587,45,In-store
+2021,Northeast,Massachu,Boston,Men's Athletic Footwear,20.51283708,225.0,213474.2502,45012,45,In-store
+2021,Northeast,Massachu,Boston,Women's Street Footwear,1.78663816,275.0,176270.6453,33625,35,In-store
+2021,Northeast,Vermont,Burlingt,Women's Athletic Footwear,10.64296609,150.0,161870.7056,21000,35,In-store
+2021,Northeast,Vermont,Burlingt,Men's Apparel,12.97442224,225.0,110056.4616,43237,35,In-store
+2021,Northeast,Vermont,Burlingt,Women's Apparel,12.8978234,325.0,198622.3054,58462,40,In-store
+2021,Northeast,Vermont,Burlingt,Men's Street Footwear,5.013934973,545.0,162652.9172,110452,45,In-store
+2021,Northeast,Vermont,Burlingt,Men's Athletic Footwear,17.58320327,250.0,8417.034134,50125,45,In-store
+2021,Northeast,Vermont,Burlingt,Women's Street Footwear,10.64822484,275.0,135042.1883,33625,35,In-store
+2021,Northeast,Vermont,Burlingt,Women's Athletic Footwear,19.03084868,125.0,126306.4505,17000,35,In-store
+2021,Northeast,Vermont,Burlingt,Men's Apparel,22.29855482,175.0,144468.3913,33625,35,In-store
+2020,Northeast,New York,New York,Men's Street Footwear,24.12241041,425.0,134650.3781,300000,50,In-store
+2020,Northeast,New York,New York,Men's Athletic Footwear,18.43778519,425.0,163011.7295,150000,30,In-store
+2020,Northeast,New York,New York,Women's Street Footwear,18.39947413,425.0,242288.5837,140000,35,In-store
+2020,Northeast,New York,New York,Women's Athletic Footwear,25.77628457,850.0,70400.65721,133825,35,In-store
+2020,Northeast,New York,New York,Men's Apparel,6.608255595,900.0,196528.6348,162400,30,In-store
+2020,Northeast,New York,New York,Women's Apparel,25.70745808,425.0,72616.92314,125000,25,In-store
+2020,Northeast,New York,New York,Men's Street Footwear,20.30324464,425.0,103494.9505,312250,50,In-store
+2020,Northeast,New York,New York,Men's Athletic Footwear,16.62755776,900.0,291443.5243,135500,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,15.35339068,950.0,165859.7766,133800,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,17.94235166,825.0,124697.8282,129712,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,21.76498737,900.0,167505.4902,162400,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,18.97438707,425.0,111410.2338,125000,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,12.70322207,425.0,124402.3862,305100,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,28.20438935,925.0,217900.5565,138625,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,33.39393355,950.0,207427.3792,133800,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,10.05744438,800.0,238800.85,126600,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,25.06515172,850.0,128915.0395,153100,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,23.48312137,950.0,141598.814,118750,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,22.3662045,425.0,117392.616,300000,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,23.7585778,900.0,188799.37,135500,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,20.38918765,900.0,125789.7561,126600,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,8.867122306,825.0,112583.3511,129712,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,5.453197848,825.0,229962.4321,148950,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,10.21896882,950.0,125538.9443,118750,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,21.28097162,425.0,162102.573,366320,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,20.84308206,925.0,79481.72267,152087,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,13.2995888,900.0,145543.7506,157500,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,17.72667773,850.0,140807.8519,148250,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,19.49275455,875.0,95001.86224,157250,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,29.25139824,425.0,158134.2624,162500,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,26.15290069,425.0,194328.5356,375500,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,12.68369441,425.0,177797.3455,165500,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,24.66958103,925.0,147824.2278,161625,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,28.77214085,900.0,143759.8162,157500,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,23.43928289,900.0,104755.7981,162400,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,25.21697564,425.0,130303.3166,170825,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,13.33443745,425.0,150465.4737,382650,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,19.20188477,425.0,157822.0386,169637,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,14.54310047,950.0,214834.4013,166750,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,20.84811313,900.0,255262.8382,157500,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,9.605438457,925.0,151941.2084,166550,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,22.72731928,425.0,182698.9358,178150,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,18.39956034,425.0,142423.5618,375500,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,30.07392583,425.0,134102.8769,169637,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,21.29470415,950.0,158153.6586,166750,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,23.55341589,925.0,179988.2491,161625,35,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,12.16554774,475.0,94411.57084,85137,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,14.53228481,275.0,109502.9947,43237,35,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,15.20847838,275.0,104196.9498,33625,35,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,18.65524207,125.0,113793.4428,20000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,11.90895425,175.0,175211.6859,33625,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,22.42316753,275.0,222163.6173,61237,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,26.612388,525.0,108383.8286,94362,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,20.1798252,175.0,157818.3503,27875,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,20.6914629,225.0,117510.9588,27875,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,24.06573045,100.0,187955.0639,16000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,14.99462639,175.0,252357.1208,33625,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,15.15867623,275.0,35957.01452,61237,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,24.16153108,495.0,182071.8604,99475,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,20.58903052,200.0,95703.2103,35000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,14.68790561,225.0,133871.7072,31000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,16.6974703,75.0,183051.6893,13375,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,10.08932344,125.0,131050.9071,26500,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,17.47707953,225.0,160437.8419,56125,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,17.54173054,450.0,155944.9279,90250,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,14.98629991,150.0,78474.25894,26500,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,22.51889548,150.0,184783.7608,21000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,19.53791218,75.0,178629.4806,13375,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,15.79358993,100.0,181644.9746,21000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,16.90276149,225.0,185171.4035,56125,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,15.05318449,495.0,65106.15979,118970,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,7.444884895,200.0,109816.1563,38100,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,13.6342815,175.0,212085.65,30750,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,6.669038546,100.0,205096.1053,20000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,19.31772376,125.0,234859.0194,26500,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,14.43644426,250.0,133396.7066,81625,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,18.10176658,500.0,184383.3353,100500,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,17.78530838,250.0,98245.12924,39125,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,23.93271094,200.0,57615.7215,28000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,12.1984291,175.0,98448.8133,28000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,22.21150426,175.0,80650.53432,30750,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,25.35114133,350.0,162904.0911,96925,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,9.265278234,575.0,136212.3122,115875,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,21.10277213,325.0,130853.7961,51462,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,19.54601747,250.0,207665.6951,35000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,17.13289119,200.0,192654.2558,32000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,13.72833161,225.0,202865.9929,39125,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,10.45886111,400.0,38221.50845,110200,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,28.56764649,550.0,178376.5833,110750,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,21.41784371,325.0,267876.167,51462,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,14.18113465,250.0,170715.5246,35000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,22.39745646,225.0,80640.82383,36000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,20.06498188,200.0,73759.68685,35000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,10.80646159,375.0,237330.5545,103062,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,31.93192221,500.0,137368.2892,100500,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,17.75095235,300.0,137016.892,47350,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,11.37826699,200.0,109411.3975,28000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,19.17075286,175.0,84590.30526,28000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,25.44169255,175.0,35577.83752,30750,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,24.94407216,250.0,167647.5239,68375,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,19.53994273,425.0,108017.8512,102550,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,18.39565713,250.0,78044.7862,43250,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,22.2054661,150.0,121918.1823,26500,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,25.93313357,125.0,139042.1795,25250,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,18.26557309,125.0,183414.3184,26500,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,19.34179792,250.0,155207.0153,81625,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,19.15202469,400.0,247691.5208,96400,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,18.55701109,250.0,57529.02418,43250,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,22.97898636,195.0,160337.2282,34750,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,15.75189876,175.0,138916.8361,35750,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,33.06546189,150.0,165435.8359,31000,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,20.69493557,250.0,205237.1824,81625,50,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,29.47957158,500.0,152972.3736,120000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,15.06702875,300.0,172827.7145,52500,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,14.9064022,250.0,80465.45033,43250,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,24.94732241,200.0,213036.5396,40000,40,Outlet
+2021,Midwest,Illinois,Chicago,Men's Apparel,22.5731712,200.0,155178.9238,42200,35,Outlet
+2021,Midwest,Illinois,Chicago,Women's Apparel,15.52564486,300.0,89569.66071,97950,50,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,22.02649061,425.0,93695.10217,105912,55,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,12.34164199,225.0,185749.0124,35012,35,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,19.6600759,225.0,116287.0688,31875,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,20.9236373,75.0,149512.0918,12000,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,36.47909814,125.0,159769.6292,24875,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,24.90973507,225.0,164625.2761,30012,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,26.32650297,475.0,131861.4384,117137,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,15.90641092,125.0,200991.0452,19625,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,19.81028761,175.0,162240.5927,24125,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,21.67744046,50.0,246032.7744,8000,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,19.92129978,125.0,106239.3106,24875,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,9.255224131,225.0,170639.6838,30012,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,24.58367603,445.0,122944.0517,122225,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,30.4153579,150.0,241391.9641,26500,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,30.58416601,175.0,179589.515,28000,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,21.49618304,25.0,167973.7281,4125,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,23.78006425,75.0,183908.1236,13500,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,25.12697679,175.0,161948.5087,21750,25,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,19.06036573,450.0,257695.899,112250,50,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,20.79706064,150.0,178929.5336,22500,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,13.9486037,150.0,107236.7716,21000,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,10.09921279,75.0,110894.6726,11375,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,20.55434928,75.0,167285.7261,13500,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,12.33609831,200.0,153768.8042,25000,25,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,17.67466663,470.0,176681.5974,141820,50,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,30.54659779,175.0,228174.0355,31050,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,12.84068144,150.0,201100.7228,28250,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,20.89201801,100.0,183541.425,19500,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,23.47814848,125.0,182428.6379,24125,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,32.44537067,250.0,173366.2046,52750,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,22.71724922,500.0,193922.7453,178250,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,15.47035777,250.0,178884.0747,52500,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,23.83901861,175.0,253327.0611,38625,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,20.48588688,150.0,74760.27358,33250,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,16.11891483,150.0,226872.9795,34750,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,18.55689533,300.0,251620.8165,63100,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,18.32783543,500.0,120181.0222,178250,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,16.11185291,300.0,114368.3549,63800,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,24.16044505,225.0,238926.7154,49237,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,17.58562854,175.0,128476.5787,38625,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,22.16926157,200.0,87040.49716,45300,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,22.51522849,375.0,187779.7088,78625,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,17.75564124,525.0,123309.6684,187412,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,10.328456,300.0,171416.4742,63800,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,20.14756652,225.0,61395.98087,49237,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,22.71345685,200.0,180320.5027,44100,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,21.69552429,175.0,160702.4884,39137,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,27.32643719,350.0,249817.147,73450,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,27.57064392,475.0,129132.1461,154087,50,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,13.63067955,275.0,189980.1543,41375,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,13.70913221,200.0,219684.8447,31000,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,12.77070049,175.0,185950.1187,27875,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,1.731649945,125.0,-26041.28262,20875,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,7.694437165,225.0,53621.98532,33350,25,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,19.38367006,400.0,99987.32392,120400,50,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,27.2409445,225.0,180001.8979,33125,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,18.39112117,125.0,208363.4311,21250,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,24.34733051,100.0,192421.8857,17000,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,19.12373928,100.0,205794.4898,18000,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,15.5595391,225.0,70573.27279,36462,25,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,13.81236893,375.0,245380.4977,144625,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,16.17050893,200.0,231611.7174,42200,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,20.35509393,195.0,150490.8154,46170,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,19.83059098,175.0,157250.4915,42050,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,17.74768534,150.0,181687.0606,36050,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Apparel,8.023795255,250.0,146827.031,56875,30,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Street Footwear,18.96113602,475.0,296188.0533,182325,55,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,22.65560243,275.0,163585.4738,57650,35,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Street Footwear,12.65185468,225.0,141098.0597,54350,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,24.16136079,175.0,100793.3173,42050,40,Outlet
+2021,Northeast,Pennsylv,Philadel,Men's Apparel,8.616253898,175.0,165961.6156,42225,35,Outlet
+2020,Northeast,Pennsylv,Philadel,Women's Apparel,21.85061123,275.0,133707.5079,61062,30,Outlet
+2020,West,Washingt,Seattle,Men's Street Footwear,20.76699676,425.0,243515.5175,212725,45,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,19.58703534,850.0,145096.4792,133825,35,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,16.73459622,850.0,231296.2584,74975,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,18.11027817,700.0,122320.7365,84800,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,18.05522462,750.0,153008.2807,144125,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,31.19952061,850.0,192181.8226,191825,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,22.36620698,425.0,120361.4578,222950,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,25.422013,750.0,42482.75036,118375,35,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,14.17468199,800.0,170216.7833,70800,25,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,21.76428087,750.0,71843.09851,144125,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,9.415473212,850.0,135222.2128,191825,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,11.07658892,425.0,172381.8473,216815,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,6.95264644,750.0,114252.646,118375,35,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,16.24089793,775.0,235327.5231,67712,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,11.82783823,625.0,83863.51868,75500,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,25.88653802,675.0,233870.1171,129712,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,25.03385298,775.0,136917.1663,174487,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,8.795189858,425.0,194629.725,207612,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,23.00309403,725.0,123444.1447,114262,35,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,18.17906222,775.0,187423.3657,104487,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,25.6724633,750.0,206530.8429,144125,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,17.73590288,925.0,213466.5835,277550,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,23.59313591,425.0,138526.4235,259775,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,32.02259814,850.0,103314.581,148250,35,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,10.72438277,775.0,40527.28942,176037,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,22.78550253,875.0,196767.2412,306125,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,16.21504209,450.0,142970.8812,55575,35,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,11.6754602,250.0,154710.2889,26750,30,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,16.072623,250.0,137780.0329,18250,30,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,17.19516972,100.0,191212.0837,10000,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,31.75029724,150.0,182575.2273,20750,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,13.06980439,250.0,158775.0606,39750,45,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,19.03635348,500.0,98284.16346,61750,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,14.60468594,150.0,154318.9642,15250,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,16.01658334,200.0,36456.18531,15000,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,23.96183193,75.0,162158.1697,7250,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,28.63253855,150.0,136336.4867,20750,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,16.8259519,225.0,210568.9849,35875,45,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,13.90670079,445.0,147168.3141,62780,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,15.69173295,125.0,246353.972,15000,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,15.97074537,175.0,257553.597,15250,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,18.29719453,25.0,138488.8428,3750,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,21.711749,75.0,79354.45962,11750,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,18.89224803,175.0,135476.6706,31000,45,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,27.85791535,400.0,170579.8135,56600,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,18.27272773,100.0,132830.0921,12000,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,19.22638295,100.0,117799.1428,9000,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,18.50306723,25.0,112179.3781,3750,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,13.75745642,50.0,175800.0806,7500,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,21.05948291,175.0,235332.4693,31000,45,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,17.32244774,445.0,63752.70103,77225,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,12.91630963,150.0,160977.6995,20750,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,17.1432356,125.0,196698.7438,15000,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,15.94416302,50.0,166096.2186,7000,35,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,23.21885884,75.0,147708.9047,12125,30,In-store
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,18.48032956,175.0,127389.5886,47050,45,In-store
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,10.07378006,425.0,133390.3786,66912,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,29.67509159,175.0,114657.9207,21000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,15.19037274,175.0,229322.3725,18125,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,18.09239593,150.0,181857.5932,18250,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,9.240615341,150.0,202807.4327,22500,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,16.63631506,325.0,147623.7423,80787,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,14.35754967,550.0,134480.8964,96750,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,25.04025352,300.0,115915.0397,40350,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,29.12551401,225.0,178715.5762,27000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,16.93960828,175.0,119299.5739,24000,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,12.04959018,200.0,123306.0481,30000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,18.80832537,375.0,161577.4404,92062,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,19.59368494,525.0,64718.08487,91625,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,10.83278332,300.0,146511.6776,40350,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,17.75955337,225.0,205190.3252,27000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,16.4686199,175.0,93831.47884,21125,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,11.3337882,150.0,72624.41021,20750,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,34.80095103,325.0,146878.2772,73625,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,9.278066875,450.0,79702.38959,70025,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,14.39794422,250.0,216884.09,30000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,19.63264724,150.0,98900.01387,11750,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,16.21964201,125.0,204247.1095,10125,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,14.1375034,125.0,148560.0956,13375,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,9.440500736,200.0,176349.6363,36000,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,9.605490212,375.0,70969.1489,59687,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,16.18610386,200.0,138197.8438,21000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,20.84999683,100.0,218853.0442,10500,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,17.70978314,75.0,247265.5839,9625,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,24.78717417,75.0,182827.88,10375,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,14.03671883,200.0,214052.3807,45000,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,9.421123052,350.0,135153.2619,61750,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,2.482736109,200.0,58778.82678,24000,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,14.1036118,145.0,204884.9396,17800,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,23.55195556,150.0,100219.5959,21000,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,13.69727413,125.0,78243.2696,20875,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,7.46949653,225.0,105445.0764,60350,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,14.51614071,475.0,154554.2002,91612,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,13.05675672,275.0,154527.3371,37237,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,11.3537195,225.0,156210.0606,30012,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,9.81279038,175.0,102754.0344,27875,35,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Apparel,19.27228321,175.0,174918.6392,28625,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Apparel,4.241461296,275.0,138261.1654,74650,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,24.3458774,425.0,210900.5457,59487,40,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,25.81947749,225.0,123672.1696,27875,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,21.82002016,225.0,199682.2377,19625,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,10.94068902,75.0,165421.372,9250,40,Outlet
+2021,Midwest,Nebraska,Omaha,Men's Apparel,17.13799438,125.0,201782.3,19625,35,Outlet
+2021,Midwest,Nebraska,Omaha,Women's Apparel,22.84220845,225.0,269037.9667,39875,50,Outlet
+2021,Midwest,Nebraska,Omaha,Men's Street Footwear,14.8271563,475.0,96960.29965,66662,40,Outlet
+2021,Midwest,Nebraska,Omaha,Men's Athletic Footwear,7.034552781,125.0,147298.9667,15375,35,Outlet
+2021,Midwest,Nebraska,Omaha,Women's Street Footwear,21.28143419,175.0,206026.4904,15375,35,Outlet
+2021,Midwest,Nebraska,Omaha,Women's Athletic Footwear,18.81931984,50.0,158386.2582,6500,40,Outlet
+2021,Midwest,Nebraska,Omaha,Men's Apparel,20.82324775,125.0,182135.0238,19625,35,Outlet
+2021,Midwest,Nebraska,Omaha,Women's Apparel,21.27212624,200.0,148834.7436,35000,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,23.75572397,775.0,119147.5199,108100,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,13.51192898,775.0,206037.5109,77875,20,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,17.04826955,775.0,216229.3552,135875,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,16.65543703,625.0,187492.0104,93125,30,Outlet
+2020,West,Californ,San Fran,Men's Apparel,11.47477841,575.0,238634.2103,158162,50,Outlet
+2020,West,Californ,San Fran,Women's Apparel,27.14744913,775.0,121069.2333,58875,15,Outlet
+2020,West,Californ,San Fran,Men's Street Footwear,16.66421967,825.0,122871.531,115300,35,Outlet
+2020,West,Californ,San Fran,Men's Athletic Footwear,32.29745171,725.0,173551.2549,72625,20,Outlet
+2020,West,Californ,San Fran,Women's Street Footwear,18.17881436,725.0,141340.5794,126625,35,Outlet
+2020,West,Californ,San Fran,Women's Athletic Footwear,13.87345323,575.0,147258.8447,86875,30,Outlet
+2020,West,Californ,San Fran,Men's Apparel,9.963457729,500.0,241266.7355,137750,50,Outlet
+2020,West,Californ,San Fran,Women's Apparel,23.53722876,700.0,80209.8843,52500,15,Outlet
+2020,West,Californ,San Fran,Men's Street Footwear,20.87525412,850.0,128006.2478,148250,35,Outlet
+2020,West,Californ,San Fran,Men's Athletic Footwear,20.9282052,700.0,154642.3997,84200,20,Outlet
+2020,West,Californ,San Fran,Women's Street Footwear,16.57714799,700.0,145475.6088,147200,35,Outlet
+2020,West,Californ,San Fran,Women's Athletic Footwear,26.41848151,600.0,158436.57,108600,30,Outlet
+2020,West,Californ,San Fran,Men's Apparel,10.51936836,500.0,115257.522,162250,50,Outlet
+2020,West,Californ,San Fran,Women's Apparel,17.32999393,700.0,68515.27378,63200,15,Outlet
+2020,West,Californ,San Fran,Men's Street Footwear,17.00922256,875.0,133635.8299,183250,35,Outlet
+2020,West,Californ,San Fran,Men's Athletic Footwear,18.08495068,675.0,143388.1156,87387,20,Outlet
+2020,West,Californ,San Fran,Women's Street Footwear,24.59874843,725.0,113599.2341,164712,35,Outlet
+2020,West,Californ,San Fran,Women's Athletic Footwear,26.05633368,625.0,168241.8659,112750,30,Outlet
+2020,West,Californ,San Fran,Men's Apparel,5.316770103,525.0,82066.5372,170412,50,Outlet
+2020,West,Californ,San Fran,Women's Apparel,8.449644415,700.0,204026.5818,84600,15,Outlet
+2020,West,Californ,San Fran,Men's Street Footwear,19.39619452,900.0,191646.9171,216400,40,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,18.02275059,750.0,202738.1602,121875,25,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,19.23185493,750.0,239927.231,195875,40,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,14.58415807,650.0,146945.3871,136900,35,Outlet
+2021,West,Californ,San Fran,Men's Apparel,22.16906782,550.0,141336.96,196575,55,Outlet
+2021,West,Californ,San Fran,Women's Apparel,19.98874732,725.0,147867.8605,116800,20,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,18.14780421,975.0,152869.4095,234850,40,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,26.44613906,825.0,137942.2206,134362,25,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,20.84545974,825.0,240823.4989,214362,40,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,15.11788383,700.0,134997.3571,147200,35,Outlet
+2021,West,Californ,San Fran,Men's Apparel,21.63922539,575.0,153299.0556,205737,55,Outlet
+2021,West,Californ,San Fran,Women's Apparel,20.32242229,875.0,176460.364,140000,20,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,14.31597541,425.0,78213.94912,215150,35,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,17.98167844,875.0,103644.7649,113687,20,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,24.47898239,825.0,53154.33231,187362,35,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,14.44698054,725.0,153036.4801,130350,30,Outlet
+2021,West,Californ,San Fran,Men's Apparel,20.45836348,775.0,172928.5609,251037,50,Outlet
+2021,West,Californ,San Fran,Women's Apparel,13.8635507,775.0,223694.3443,93200,15,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,20.49342566,975.0,65808.66156,221337,35,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,22.05253425,925.0,176412.7138,129475,20,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,16.0760774,800.0,101698.0041,182200,35,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,14.96720741,750.0,96382.53382,146875,30,Outlet
+2021,West,Californ,San Fran,Men's Apparel,31.62999463,750.0,145748.2956,281625,50,Outlet
+2021,West,Californ,San Fran,Women's Apparel,14.56567775,725.0,220680.9939,87800,15,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,17.73813646,925.0,187064.7341,152087,30,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,17.7910606,925.0,168420.8977,83550,15,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,24.79282107,775.0,105628.3548,127262,30,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,17.97465616,725.0,156079.5042,99987,25,Outlet
+2021,West,Californ,San Fran,Men's Apparel,18.10077919,725.0,94491.00871,212712,45,Outlet
+2021,West,Californ,San Fran,Women's Apparel,22.91012003,775.0,313427.9717,54425,10,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,7.190786278,875.0,173496.9867,144812,30,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,22.07066807,875.0,143837.467,78250,15,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,11.30716767,700.0,153705.373,115850,30,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,22.33930512,675.0,58467.58747,92712,25,Outlet
+2021,West,Californ,San Fran,Men's Apparel,19.3762456,650.0,98336.27496,190225,45,Outlet
+2021,West,Californ,San Fran,Women's Apparel,17.07602544,700.0,166068.8302,49900,10,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,21.94763183,875.0,77915.26321,144812,30,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,25.83687473,875.0,127499.0161,78250,15,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,6.613718829,725.0,90594.03315,119987,30,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,11.79477738,700.0,105702.966,96850,25,Outlet
+2021,West,Californ,San Fran,Men's Apparel,16.91716188,650.0,211374.7512,190225,45,Outlet
+2021,West,Californ,San Fran,Women's Apparel,16.8766921,775.0,156673.5593,54425,10,Outlet
+2021,West,Californ,San Fran,Men's Street Footwear,18.80929962,975.0,188195.2933,160362,30,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,21.90227899,975.0,104696.1582,87850,15,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,16.35590487,775.0,134852.3231,127262,30,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,19.44444204,775.0,230373.7996,106262,25,Outlet
+2021,West,Californ,San Fran,Men's Apparel,23.70260361,700.0,101294.5521,204550,45,Outlet
+2021,West,Californ,San Fran,Women's Apparel,9.782097669,800.0,250910.668,56600,10,Outlet
+2020,Northeast,Pennsylv,Philadel,Men's Street Footwear,14.04479274,450.0,76820.28868,63575,40,Outlet
+2020,Northeast,Pennsylv,Philadel,Men's Athletic Footwear,16.72042943,450.0,155345.5238,50025,25,Outlet
+2020,Northeast,Pennsylv,Philadel,Women's Street Footwear,18.92928035,450.0,151336.4496,81025,40,Outlet
+2020,Northeast,Pennsylv,Philadel,Women's Athletic Footwear,16.26803104,300.0,135148.2964,47350,35,Outlet
+2020,West,Nevada,Las Vega,Men's Apparel,20.25292348,250.0,146105.1527,68250,55,Outlet
+2020,West,Nevada,Las Vega,Women's Apparel,10.3313402,475.0,119676.2477,42137,20,Outlet
+2020,West,Nevada,Las Vega,Men's Street Footwear,9.116373665,525.0,228833.7679,73837,40,Outlet
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,20.71950617,425.0,132893.2611,47912,25,Outlet
+2020,West,Nevada,Las Vega,Women's Street Footwear,9.35398876,425.0,143029.3675,76912,40,Outlet
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,25.01795629,275.0,172015.3589,43237,35,Outlet
+2020,West,Nevada,Las Vega,Men's Apparel,20.07553772,200.0,159836.5668,55000,55,Outlet
+2020,West,Nevada,Las Vega,Women's Apparel,16.64018998,400.0,74797.24446,36800,20,Outlet
+2020,West,Nevada,Las Vega,Men's Street Footwear,14.43542561,550.0,66857.82761,99475,40,Outlet
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,18.86874843,400.0,242029.2504,55200,25,Outlet
+2020,West,Nevada,Las Vega,Women's Street Footwear,11.88733336,400.0,104142.4369,88200,40,Outlet
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,13.66901754,300.0,100161.9577,57650,35,Outlet
+2020,West,Nevada,Las Vega,Men's Apparel,11.20014631,175.0,147305.2124,57050,55,Outlet
+2020,West,Nevada,Las Vega,Women's Apparel,22.86485433,375.0,105949.0918,41062,20,Outlet
+2020,West,Nevada,Las Vega,Men's Street Footwear,14.67344127,550.0,132433.3958,132300,40,Outlet
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,23.7160599,350.0,40805.2766,56275,25,Outlet
+2020,West,Nevada,Las Vega,Women's Street Footwear,20.27384168,400.0,152858.4287,104600,40,Outlet
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,5.985974615,300.0,246505.9519,63800,35,Outlet
+2020,West,Nevada,Las Vega,Men's Apparel,25.86668208,200.0,208361.7986,71300,55,Outlet
+2020,West,Nevada,Las Vega,Women's Apparel,23.21042165,350.0,279098.2245,56800,20,Outlet
+2020,West,Nevada,Las Vega,Men's Street Footwear,17.92520001,550.0,81829.91369,148300,45,Outlet
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,12.34232389,400.0,176067.2064,78600,30,Outlet
+2020,West,Nevada,Las Vega,Women's Street Footwear,14.18065832,400.0,177062.7619,117600,45,Outlet
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,26.71066313,300.0,114952.1069,72800,40,Outlet
+2020,West,Nevada,Las Vega,Men's Apparel,9.054786383,200.0,23941.9302,78300,60,Outlet
+2020,West,Nevada,Las Vega,Women's Apparel,26.31517446,450.0,151498.9496,90600,25,Outlet
+2020,West,Nevada,Las Vega,Men's Street Footwear,15.72598932,700.0,194686.6432,189200,45,Outlet
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,9.192723182,550.0,120190.7519,107575,30,Outlet
+2020,West,Nevada,Las Vega,Women's Street Footwear,10.72762298,550.0,109759.8974,160575,45,Outlet
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,13.83790283,425.0,206604.9252,102550,40,Outlet
+2020,West,Nevada,Las Vega,Men's Apparel,16.75934414,300.0,56702.10219,117950,60,Outlet
+2020,West,Nevada,Las Vega,Women's Apparel,24.9506477,600.0,124477.1413,120800,25,Outlet
+2020,West,Nevada,Las Vega,Men's Street Footwear,18.20784888,750.0,160276.527,180500,40,Outlet
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,23.52686293,600.0,201320.1185,97900,25,Outlet
+2020,West,Nevada,Las Vega,Women's Street Footwear,16.20522307,550.0,153235.5961,143575,40,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,13.84570788,450.0,67515.21622,94700,35,In-store
+2020,West,Nevada,Las Vega,Men's Apparel,8.815551663,500.0,133190.0044,178250,55,In-store
+2020,West,Nevada,Las Vega,Women's Apparel,20.62782593,500.0,143302.1986,80000,20,In-store
+2020,West,Nevada,Las Vega,Men's Street Footwear,18.93760459,700.0,188616.4396,182550,40,In-store
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,22.76813644,650.0,108612.6515,113550,25,In-store
+2020,West,Nevada,Las Vega,Women's Street Footwear,24.94312146,525.0,140276.9323,136412,40,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,25.60199898,475.0,109255.6641,108087,35,In-store
+2020,West,Nevada,Las Vega,Men's Apparel,21.64537052,475.0,105714.7399,195562,55,In-store
+2020,West,Nevada,Las Vega,Women's Apparel,23.34071059,400.0,131042.5437,64200,20,In-store
+2020,West,Nevada,Las Vega,Men's Street Footwear,10.24718477,600.0,186919.8727,126600,35,In-store
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,16.71187859,600.0,48077.61432,78900,20,In-store
+2020,West,Nevada,Las Vega,Women's Street Footwear,14.25865872,450.0,159354.6469,94700,35,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,3.517101932,400.0,96028.15107,72400,30,In-store
+2020,West,Nevada,Las Vega,Men's Apparel,20.81140523,400.0,113022.9832,140800,50,In-store
+2020,West,Nevada,Las Vega,Women's Apparel,22.2449733,450.0,127169.5724,50375,15,In-store
+2020,West,Nevada,Las Vega,Men's Street Footwear,15.11158727,550.0,160413.6233,115300,35,In-store
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,11.06517995,550.0,111634.492,71575,20,In-store
+2020,West,Nevada,Las Vega,Women's Street Footwear,14.10637021,375.0,163326.6371,78250,35,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,25.08146912,350.0,111963.3616,63100,30,In-store
+2020,West,Nevada,Las Vega,Men's Apparel,17.50483261,325.0,128294.3346,113275,50,In-store
+2020,West,Nevada,Las Vega,Women's Apparel,25.24107302,375.0,112827.4372,42812,15,In-store
+2020,West,Nevada,Las Vega,Men's Street Footwear,15.0148268,575.0,238592.9174,120450,35,In-store
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,26.91700145,575.0,210822.2255,74737,20,In-store
+2020,West,Nevada,Las Vega,Women's Street Footwear,9.706132866,425.0,97357.00902,89550,35,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,25.5257549,400.0,182985.4247,72400,30,In-store
+2020,West,Nevada,Las Vega,Men's Apparel,16.87441944,350.0,273726.7923,122450,50,In-store
+2020,West,Nevada,Las Vega,Women's Apparel,21.68516014,475.0,177992.1295,53562,15,In-store
+2020,West,Nevada,Las Vega,Men's Street Footwear,21.66972597,675.0,169592.5984,141050,35,In-store
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,19.08248095,675.0,194533.4075,87387,20,In-store
+2020,West,Nevada,Las Vega,Women's Street Footwear,17.95382089,475.0,165060.7177,99850,35,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,16.99312076,475.0,300556.2334,85850,30,In-store
+2020,West,Nevada,Las Vega,Men's Apparel,21.75733882,400.0,127493.9025,140800,50,In-store
+2020,West,Nevada,Las Vega,Women's Apparel,10.35152652,500.0,95939.10208,56750,15,In-store
+2020,West,Nevada,Las Vega,Men's Street Footwear,25.98163178,425.0,116080.0383,44275,35,In-store
+2020,West,Nevada,Las Vega,Men's Athletic Footwear,21.53131067,425.0,126988.1047,34700,20,In-store
+2020,West,Nevada,Las Vega,Women's Street Footwear,24.72806437,425.0,188650.9532,59700,35,In-store
+2020,West,Nevada,Las Vega,Women's Athletic Footwear,25.9681488,275.0,106931.9029,33100,30,In-store
+2020,West,Colorado,Denver,Men's Apparel,19.23059373,225.0,139612.2023,50012,50,In-store
+2020,West,Colorado,Denver,Women's Apparel,17.92054195,475.0,152953.9343,28900,15,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,13.98796738,525.0,184966.5908,55575,35,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,13.30515412,425.0,159941.6478,34700,20,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,19.8340319,425.0,154490.2649,59700,35,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,15.92715926,275.0,195894.2589,33100,30,In-store
+2020,West,Colorado,Denver,Men's Apparel,19.61930933,200.0,186580.9548,45000,50,In-store
+2020,West,Colorado,Denver,Women's Apparel,28.01372263,400.0,233431.9754,24600,15,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,9.502478689,550.0,120415.6052,77200,35,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,19.73802407,400.0,44059.35154,40000,20,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,21.2385593,400.0,170135.4457,77200,35,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,12.64478689,300.0,209777.3844,49650,30,In-store
+2020,West,Colorado,Denver,Men's Apparel,13.53386297,150.0,167801.6214,45000,50,In-store
+2020,West,Colorado,Denver,Women's Apparel,22.70652022,350.0,155368.5837,28925,15,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,22.76619158,525.0,161904.4695,110150,35,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,15.73323228,325.0,154358.6451,42112,20,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,30.52872635,375.0,220125.0526,85437,35,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,13.94436327,275.0,257595.2531,49650,30,In-store
+2020,West,Colorado,Denver,Men's Apparel,23.5336115,175.0,211626.7443,56137,50,In-store
+2020,West,Colorado,Denver,Women's Apparel,12.01191389,325.0,180635.3679,39600,15,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,11.30894397,525.0,161611.3747,157150,50,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,23.40758991,375.0,192745.2637,85437,35,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,14.86152759,375.0,74258.8462,121437,50,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,24.80850792,275.0,112000.3383,74650,45,In-store
+2020,West,Colorado,Denver,Men's Apparel,21.78230754,175.0,104374.4354,73137,65,In-store
+2020,West,Colorado,Denver,Women's Apparel,22.56999483,475.0,98352.07073,114800,30,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,11.97261247,725.0,98436.3367,217350,50,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,23.2897212,575.0,149688.9303,130737,35,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,20.30838548,575.0,123224.3252,186737,50,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,24.21561294,450.0,192891.0557,131925,45,In-store
+2020,West,Colorado,Denver,Men's Apparel,20.734659,325.0,85904.77679,147275,65,In-store
+2020,West,Colorado,Denver,Women's Apparel,23.71678166,625.0,170368.4628,159312,30,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,23.38210478,775.0,104023.9944,226037,45,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,20.80675003,625.0,185110.5702,131375,30,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,14.30147299,575.0,164032.1574,181025,45,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,26.57221591,475.0,232180.8968,123087,40,In-store
+2020,West,Colorado,Denver,Men's Apparel,27.85241289,525.0,148046.1294,220675,60,In-store
+2020,West,Colorado,Denver,Women's Apparel,19.33316469,525.0,196624.2078,111462,25,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,18.04170364,725.0,161374.8046,228075,45,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,20.05034136,675.0,134900.5889,151062,30,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,23.36067848,550.0,55025.58057,173850,45,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,9.059319417,500.0,113634.2323,140500,40,In-store
+2020,West,Colorado,Denver,Men's Apparel,19.94732522,500.0,61956.63256,225750,60,In-store
+2020,West,Colorado,Denver,Women's Apparel,12.17219336,400.0,50616.66518,80200,25,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,17.19926216,600.0,114964.7567,156900,40,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,18.01333745,600.0,227446.9832,105200,25,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,25.06179906,450.0,76540.33203,117925,40,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,17.68865281,400.0,169610.703,91600,35,In-store
+2020,West,Colorado,Denver,Men's Apparel,19.89505519,400.0,126310.4829,165000,55,In-store
+2020,West,Colorado,Denver,Women's Apparel,16.92240767,425.0,159297.1183,59975,20,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,19.90710502,525.0,197487.9724,115887,40,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,11.8867885,525.0,169851.2011,78150,25,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,15.83935593,350.0,58903.56117,77925,40,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,17.42156569,325.0,125044.8688,62787,35,In-store
+2020,West,Colorado,Denver,Men's Apparel,31.41664552,300.0,96415.8483,107950,55,In-store
+2020,West,Colorado,Denver,Women's Apparel,24.31125739,350.0,201929.6543,49450,20,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,15.34648215,575.0,131258.4327,126162,40,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,18.95018592,575.0,18045.74588,86450,25,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,4.451751445,425.0,139977.6704,93337,40,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,23.0593168,400.0,122598.4814,91600,35,In-store
+2020,West,Colorado,Denver,Men's Apparel,12.67114238,375.0,60024.30508,154812,55,In-store
+2020,West,Colorado,Denver,Women's Apparel,18.53790916,500.0,96507.88527,80000,20,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,13.52247534,700.0,112343.7543,182550,40,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,32.88374382,700.0,85165.05917,122900,25,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,18.32256952,500.0,215879.2256,130250,40,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,34.58777054,500.0,175377.2783,113250,35,In-store
+2020,West,Colorado,Denver,Men's Apparel,19.82594855,425.0,160475.1916,175187,55,In-store
+2020,West,Colorado,Denver,Women's Apparel,18.51594273,525.0,78774.71041,84200,20,In-store
+2020,West,Colorado,Denver,Men's Street Footwear,16.66589282,450.0,222108.3926,54800,30,In-store
+2020,West,Colorado,Denver,Men's Athletic Footwear,25.23100373,450.0,187864.1023,56250,25,In-store
+2020,West,Colorado,Denver,Women's Street Footwear,11.42018165,450.0,212027.684,56250,25,In-store
+2020,West,Colorado,Denver,Women's Athletic Footwear,12.31336029,300.0,153842.7505,45500,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,17.19428686,250.0,143096.1793,34375,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,18.24661787,500.0,200168.2803,50500,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,14.98342549,550.0,185949.5554,66200,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,24.26128417,450.0,200420.1159,56250,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,7.91990745,450.0,258550.1581,56250,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,17.65106706,300.0,26489.30137,45500,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,16.65893585,225.0,138586.074,30237,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,20.72520764,425.0,203663.1985,42125,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,27.7559754,575.0,96017.63197,86875,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,16.51826478,425.0,97118.59345,63550,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,10.9082775,425.0,141111.2803,69762,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,12.76052765,325.0,154043.5208,63112,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,20.88594923,175.0,124938.8107,30225,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,19.10528804,375.0,88244.32933,48437,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,13.12616895,550.0,170242.5339,115850,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,13.65342542,350.0,141779.9543,65625,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,10.49701746,400.0,138419.6531,75000,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,11.88420883,300.0,140011.2719,54800,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,3.575702358,200.0,83007.75555,32300,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,13.4659376,350.0,219689.8839,56800,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,17.15572988,550.0,189824.1212,99300,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,12.45859088,400.0,112811.6207,65600,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,13.05844336,400.0,109043.888,65600,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,19.80986957,300.0,125864.901,54800,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,29.43471608,200.0,149361.6915,32300,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,3.643354114,500.0,124705.6306,80000,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,9.916091511,750.0,87954.8877,168625,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,21.76065495,625.0,103255.0101,125000,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,20.67398152,625.0,103808.5456,125000,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,19.71153916,500.0,191950.1353,120000,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,11.70555803,375.0,163163.0514,79187,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,19.97374503,675.0,120892.8958,135750,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,16.92423557,825.0,96369.94621,198600,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,19.5251743,675.0,154470.6594,143737,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,23.94082736,625.0,175298.8979,132312,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,10.02172803,525.0,238812.1736,126200,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,12.0686754,575.0,193159.7536,122887,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,20.95492021,575.0,109527.4649,115750,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,12.783184,775.0,201108.4228,197587,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,19.14191901,750.0,117484.9134,150000,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,6.280933809,625.0,176562.2588,117687,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,20.60188716,575.0,209261.2652,129312,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,12.9055177,575.0,232926.246,107312,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,23.99339939,400.0,103801.978,64200,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,17.6288899,600.0,145554.6885,126200,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,25.41084718,600.0,102638.8607,112500,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,15.46327713,450.0,267350.2105,78150,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,15.7040337,400.0,205216.9414,84800,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,22.80291286,425.0,189256.4942,85400,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,14.65631283,450.0,99362.473,58925,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,16.15007563,550.0,164120.8634,99300,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,8.609186598,550.0,236712.7071,89575,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,19.47046672,375.0,137093.5115,56250,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,15.96880535,350.0,154140.1708,63100,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,16.63995557,325.0,132446.1988,56275,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,31.10895833,375.0,162342.0686,56812,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,12.33725515,600.0,130273.272,108600,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,14.41753379,625.0,40432.48487,101062,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,16.69745861,475.0,143732.6916,71850,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,11.88403607,450.0,92726.95969,94150,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,17.30419021,425.0,174013.8728,95825,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,22.61163318,550.0,162986.1074,104225,20,In-store
+2020,West,Washingt,Seattle,Men's Street Footwear,12.65246347,750.0,120227.1549,180000,30,In-store
+2020,West,Washingt,Seattle,Men's Athletic Footwear,14.9939498,750.0,121773.6539,159375,25,In-store
+2020,West,Washingt,Seattle,Women's Street Footwear,22.02177373,550.0,95805.89127,110400,25,In-store
+2020,West,Washingt,Seattle,Women's Athletic Footwear,15.58372041,550.0,105256.7068,132400,30,In-store
+2020,West,Washingt,Seattle,Men's Apparel,12.45719814,475.0,163221.1774,106275,25,In-store
+2020,West,Washingt,Seattle,Women's Apparel,10.46909412,575.0,160911.7291,109462,20,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,22.98539711,675.0,239701.8993,81700,30,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,25.8768308,725.0,36557.78151,63537,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,9.062299919,650.0,174776.0665,78600,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,16.78315234,675.0,238642.9867,129712,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,18.32934661,800.0,129158.7415,180600,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,21.43953861,425.0,198873.0491,264885,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,21.49077136,775.0,197050.0805,149262,35,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,17.8709253,750.0,159247.0618,93750,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,29.02764239,700.0,95708.85323,105500,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,13.55385666,725.0,185914.6799,152350,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,11.74516411,825.0,133395.1821,268362,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,10.56910088,425.0,165120.8104,290450,45,In-store
+2020,Northeast,New York,New York,Men's Apparel,11.88646748,900.0,100346.8177,162400,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,24.39154037,425.0,192197.3959,174987,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,18.74851389,425.0,135861.9135,360200,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,26.12155865,425.0,149454.5011,165500,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,11.99669273,925.0,158528.6388,161625,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,9.575305669,900.0,126996.1516,157500,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,18.5244949,900.0,73466.56557,162400,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,10.83483051,425.0,174531.6434,162500,25,Outlet
+2020,Northeast,New York,New York,Men's Apparel,12.83903773,875.0,132497.8636,170687,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,22.02483139,425.0,150432.735,175000,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,10.84005493,425.0,153332.3571,373475,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,20.00048718,975.0,157094.8626,160362,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,15.09877019,920.0,252657.6755,177060,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,17.69933325,900.0,84979.81506,173950,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,11.46117326,875.0,229078.2584,170687,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,27.09773955,975.0,232450.5914,170825,25,Outlet
+2020,Northeast,New York,New York,Men's Street Footwear,25.90237852,425.0,155417.6069,390800,50,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,22.4057706,425.0,184569.023,165500,30,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,17.2230206,950.0,105536.6796,182225,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,15.78554779,900.0,275142.6231,173950,35,Outlet
+2020,Northeast,New York,New York,Men's Apparel,11.94666846,900.0,39094.34796,175850,30,Outlet
+2020,Northeast,New York,New York,Women's Apparel,11.12741463,425.0,147801.9884,175000,25,Outlet
+2020,South,Texas,Houston,Men's Apparel,16.86348908,525.0,211612.4721,70362,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,20.18195656,800.0,192317.8346,160200,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,32.5393109,925.0,125776.0178,97775,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,15.46457018,925.0,177950.0532,129700,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,13.96240948,775.0,130628.8677,94712,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,16.27770833,700.0,125974.6431,126800,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,32.42747743,600.0,49946.58797,81700,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,18.03350766,950.0,144451.6581,190800,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,21.01539708,950.0,47001.10601,133800,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,4.865916373,950.0,131004.6839,149275,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,21.67496142,800.0,233482.6055,112200,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,24.37000256,750.0,43420.13464,135000,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,9.252877922,650.0,165062.5626,87925,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,11.93784624,425.0,201292.623,250000,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,20.50494621,950.0,149700.7743,133800,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,29.52593423,950.0,117812.6952,149275,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,12.3981793,425.0,199359.1992,154400,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,17.02902693,700.0,204896.0685,126800,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,27.55038639,700.0,85267.6965,94150,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,12.50107983,975.0,210842.8117,243875,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,16.26448489,925.0,172110.0745,129700,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,18.40493053,925.0,200976.4971,145162,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,17.37661385,425.0,204934.3054,154400,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,17.98184352,650.0,122785.7971,117600,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,17.55056701,650.0,199756.0858,87925,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,22.90173895,900.0,179265.7464,225500,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,13.00633724,850.0,158031.0985,133825,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,25.35476239,850.0,108604.0415,133825,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,19.97894248,900.0,131315.1171,157500,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,16.06201311,625.0,234432.2219,140125,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,13.81755515,625.0,206446.2965,84812,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,18.01154067,850.0,197817.4672,233675,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,22.69237901,800.0,147496.066,126600,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,23.17128901,800.0,129168.1431,126600,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,8.551002493,750.0,97587.50787,131750,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,26.69827765,600.0,190869.468,135000,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,16.24965546,575.0,105711.8167,77587,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,4.136335822,750.0,267801.6564,206125,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,23.17551629,900.0,134412.5125,141050,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,19.17035873,900.0,167393.5574,141050,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,24.64064636,825.0,242311.7259,144125,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,20.66388773,675.0,180461.6962,151375,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,27.89815265,650.0,73183.17604,87925,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,14.89996233,850.0,233650.8474,233675,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,18.112836,950.0,94789.93339,149275,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,13.42186892,950.0,140093.4581,149275,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,12.58821912,850.0,51241.34833,148250,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,20.31625396,700.0,156789.721,157500,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,12.57569587,650.0,132883.1756,87925,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,13.4916577,900.0,102317.1267,247950,50,Outlet
+2021,West,Hawaii,Honolulu,Men's Apparel,11.66621457,525.0,260138.4337,55675,15,Outlet
+2021,West,Hawaii,Honolulu,Women's Apparel,24.13763463,350.0,118465.1166,105625,40,Outlet
+2021,West,Hawaii,Honolulu,Men's Street Footwear,23.36563578,550.0,191762.8656,89575,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,16.24956729,550.0,31331.6124,77850,20,Outlet
+2021,West,Hawaii,Honolulu,Women's Street Footwear,23.43760571,375.0,150932.0899,60437,25,Outlet
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,22.79651549,325.0,258613.8122,52112,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Apparel,26.91767525,350.0,184739.3512,39625,15,Outlet
+2021,West,Hawaii,Honolulu,Women's Apparel,21.80069784,375.0,106827.1301,90250,40,Outlet
+2021,West,Hawaii,Honolulu,Men's Street Footwear,9.485710753,475.0,272257.0804,65612,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,18.18002115,475.0,188404.8811,61087,20,Outlet
+2021,West,Hawaii,Honolulu,Women's Street Footwear,19.84312056,300.0,227030.6879,45800,25,Outlet
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,18.90401872,275.0,139972.0301,37512,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Apparel,16.34499175,250.0,133381.5274,24625,15,Outlet
+2021,West,Hawaii,Honolulu,Women's Apparel,17.80916065,300.0,128844.4036,84100,40,Outlet
+2021,West,Hawaii,Honolulu,Men's Street Footwear,13.08376699,525.0,147250.3338,72887,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,12.65089641,600.0,123217.2362,72600,20,Outlet
+2021,West,Hawaii,Honolulu,Women's Street Footwear,18.77586231,425.0,144721.2165,58337,25,Outlet
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,11.8652728,400.0,106153.4607,65600,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Apparel,21.04213772,375.0,162646.6731,47187,15,Outlet
+2021,West,Hawaii,Honolulu,Women's Apparel,14.62790256,500.0,178963.0441,180500,40,Outlet
+2021,West,Hawaii,Honolulu,Men's Street Footwear,6.286525366,700.0,206087.7802,131250,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,23.83613744,700.0,115075.2738,119950,20,Outlet
+2021,Southeast,Florida,Orlando,Men's Street Footwear,17.14773045,550.0,275864.3052,107575,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,26.16431074,350.0,148782.6046,61450,25,Outlet
+2021,Southeast,Florida,Orlando,Women's Street Footwear,13.14952923,400.0,51952.30484,84800,30,Outlet
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,19.47111187,300.0,155876.4579,49650,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Apparel,13.16614327,200.0,146371.7214,24200,20,Outlet
+2021,Southeast,Florida,Orlando,Women's Apparel,21.72173339,375.0,38249.29781,126812,45,Outlet
+2021,Southeast,Florida,Orlando,Men's Street Footwear,8.902636146,575.0,152903.9939,103450,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,20.36846614,425.0,155226.0638,69762,25,Outlet
+2021,Southeast,Florida,Orlando,Women's Street Footwear,19.93824833,425.0,119768.2781,82762,30,Outlet
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,15.52299869,325.0,195939.6903,58950,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Apparel,20.21637234,225.0,174771.0715,24237,20,Outlet
+2021,Southeast,Florida,Orlando,Women's Apparel,2.913027767,575.0,155968.0414,181025,45,Outlet
+2021,Southeast,Florida,Orlando,Men's Street Footwear,18.11081913,825.0,231287.0773,160362,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,21.67506125,700.0,234525.1176,122900,25,In-store
+2021,Southeast,Florida,Orlando,Women's Street Footwear,15.2467032,700.0,257647.9978,178950,30,In-store
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,21.08912049,575.0,187003.3869,146887,30,In-store
+2021,Southeast,Florida,Orlando,Men's Apparel,17.89316705,450.0,179678.9923,85275,20,In-store
+2021,Southeast,Florida,Orlando,Women's Apparel,22.221659,750.0,183958.9454,371250,45,In-store
+2021,Southeast,Florida,Orlando,Men's Street Footwear,16.22493536,900.0,113664.5513,243100,30,In-store
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,12.11412925,750.0,146395.4119,178125,25,In-store
+2021,Southeast,Florida,Orlando,Women's Street Footwear,17.6792107,700.0,133794.3537,199650,30,In-store
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,13.96363405,600.0,125755.1394,162400,30,In-store
+2021,Southeast,Florida,Orlando,Men's Apparel,28.75863013,650.0,186205.672,123175,20,In-store
+2021,Southeast,Florida,Orlando,Women's Apparel,12.80397398,650.0,249614.7277,321150,45,In-store
+2021,Southeast,Florida,Orlando,Men's Street Footwear,16.00141279,850.0,278028.9558,242075,30,In-store
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,25.82329435,825.0,135322.876,175012,25,In-store
+2021,Southeast,Florida,Orlando,Women's Street Footwear,25.48389897,700.0,145672.4038,168600,30,In-store
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,16.12506759,475.0,198985.6128,114800,30,In-store
+2021,Southeast,Florida,Orlando,Men's Apparel,12.01375039,475.0,12366.40239,76800,20,In-store
+2021,Southeast,Florida,Orlando,Women's Apparel,14.73304456,300.0,223639.1455,114550,45,In-store
+2021,Southeast,Florida,Orlando,Men's Street Footwear,14.04872576,500.0,164294.2619,90000,30,In-store
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,14.2476961,500.0,209464.3321,81250,25,In-store
+2021,Southeast,Florida,Orlando,Women's Street Footwear,14.02076851,300.0,128360.6778,54800,30,In-store
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,19.59515064,250.0,180701.6223,45500,30,In-store
+2021,Southeast,Florida,Orlando,Men's Apparel,11.50363896,275.0,124239.2656,38925,20,In-store
+2021,Southeast,Florida,Orlando,Women's Apparel,16.82822093,300.0,164687.1928,74650,45,In-store
+2021,Southeast,Florida,Orlando,Men's Street Footwear,32.61534244,400.0,180696.1019,60000,30,In-store
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,20.73503837,575.0,123506.2758,93737,25,In-store
+2021,Southeast,Florida,Orlando,Women's Street Footwear,21.5819824,400.0,219606.3259,72400,30,In-store
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,12.66381247,375.0,125696.6641,61062,30,In-store
+2021,Southeast,Florida,Orlando,Men's Apparel,7.403254678,350.0,162882.5241,45275,20,In-store
+2021,Southeast,Florida,Orlando,Women's Apparel,17.34428135,400.0,60233.06642,126800,45,In-store
+2021,Southeast,Florida,Orlando,Men's Street Footwear,26.18335681,625.0,212734.6348,103437,30,In-store
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,19.69128094,700.0,158739.3641,105200,25,In-store
+2021,Southeast,Florida,Orlando,Women's Street Footwear,19.42007958,525.0,157811.6502,86887,30,In-store
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,11.71261125,500.0,182649.0089,97250,30,In-store
+2021,Southeast,Florida,Orlando,Men's Apparel,22.56768912,475.0,105818.9876,80037,20,In-store
+2021,Southeast,Florida,Orlando,Women's Apparel,16.32326145,600.0,163383.3253,243400,45,In-store
+2021,Southeast,Florida,Orlando,Men's Street Footwear,27.6244852,800.0,108061.824,180000,30,In-store
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,22.05311995,800.0,182338.1817,170800,25,In-store
+2021,South,Mississi,Jackson,Men's Athletic Footwear,23.56608595,600.0,117028.2734,115300,35,Online
+2021,South,Mississi,Jackson,Women's Street Footwear,9.510863541,525.0,133212.6823,105625,40,Online
+2021,South,Mississi,Jackson,Women's Athletic Footwear,22.48332966,475.0,100699.6925,95375,40,Online
+2021,South,Mississi,Jackson,Men's Apparel,17.33199094,500.0,283616.6951,105000,35,Online
+2021,South,Mississi,Jackson,Women's Apparel,17.53849358,675.0,212787.817,219387,50,Online
+2021,South,Mississi,Jackson,Men's Street Footwear,13.95786559,825.0,155178.7265,198950,40,Online
+2021,South,Mississi,Jackson,Men's Athletic Footwear,23.17575629,600.0,111297.2078,115300,35,Online
+2021,South,Mississi,Jackson,Women's Street Footwear,19.81221636,525.0,210154.4202,105625,40,Online
+2021,South,Mississi,Jackson,Women's Athletic Footwear,29.01309167,475.0,153310.5518,76900,40,Online
+2021,South,Mississi,Jackson,Men's Apparel,25.34555142,450.0,147539.4657,78250,35,Online
+2021,South,Mississi,Jackson,Women's Apparel,20.60573939,625.0,131980.4468,171437,50,Online
+2021,South,Mississi,Jackson,Men's Street Footwear,23.40352098,725.0,70057.57041,145625,40,Online
+2021,South,Mississi,Jackson,Men's Athletic Footwear,7.036424414,525.0,157392.5587,82362,35,Online
+2021,South,Mississi,Jackson,Women's Street Footwear,22.43425956,425.0,111770.6905,34500,40,Online
+2021,South,Mississi,Jackson,Women's Athletic Footwear,23.53178595,400.0,140919.9738,32000,40,Online
+2021,South,Mississi,Jackson,Men's Apparel,23.63130193,400.0,11908.55167,42200,35,Online
+2021,South,Mississi,Jackson,Women's Apparel,22.45767261,500.0,145072.1543,87750,50,Online
+2021,South,Mississi,Jackson,Men's Street Footwear,7.365671937,675.0,119850.3939,94362,40,Online
+2021,South,Mississi,Jackson,Men's Athletic Footwear,13.23036568,500.0,230185.0675,43250,35,Online
+2021,South,Mississi,Jackson,Women's Street Footwear,20.67542058,375.0,242872.7164,37375,40,Online
+2021,South,Mississi,Jackson,Women's Athletic Footwear,9.971143196,350.0,90570.52627,35750,40,Online
+2021,South,Mississi,Jackson,Men's Apparel,15.83927849,350.0,126639.2442,42225,35,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,14.74448144,250.0,140874.4424,20000,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,12.15941006,325.0,111434.4265,39137,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,19.62249812,425.0,194001.6051,34500,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,22.93487055,645.0,137922.4905,51290,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,17.13575572,325.0,101199.9729,22500,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,16.19822655,350.0,145193.6448,14500,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,17.4734108,200.0,178560.6054,16000,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,13.07922177,250.0,215909.1326,30750,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,11.10120468,350.0,169834.7117,35750,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,7.799954954,600.0,190465.8473,60500,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,27.26795571,300.0,87391.45885,26500,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,19.95282117,300.0,179310.977,18500,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,19.85318822,225.0,62393.50116,18500,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,16.66610479,250.0,232331.0762,35000,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,24.9362464,400.0,273212.9136,48200,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,26.27235928,670.0,112875.8326,107680,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,19.98407579,375.0,196511.2853,52500,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,19.75629758,350.0,128116.2299,49225,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,18.1018014,300.0,184909.4422,42050,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,18.84389313,325.0,114679.0795,51462,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,21.9635074,425.0,167608.5131,76912,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,14.12657292,675.0,115454.3137,108700,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,16.401745,425.0,144376.0529,52487,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,13.1507347,400.0,194397.2132,64600,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,22.06786051,375.0,96605.59588,60500,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,18.40743591,375.0,129754.4566,72062,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,21.94190355,550.0,165261.2889,132300,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,22.62123747,775.0,76504.53085,170262,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,12.46511534,525.0,174387.1136,91625,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,16.45475817,450.0,136730.7717,81025,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,15.20532367,400.0,161946.6866,72800,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,13.19281093,425.0,184535.7047,89550,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,14.32681864,600.0,210988.4404,156900,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,10.65940902,750.0,177538.8346,180500,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,23.1279512,525.0,207817.3028,101887,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,24.21249751,450.0,208314.1735,90250,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,23.09827553,400.0,140874.826,64600,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,27.73561049,375.0,85924.78225,65875,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,24.09762473,550.0,128930.9312,121025,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,25.83742282,650.0,143522.4909,130250,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,21.61535366,450.0,213890.2554,63800,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,12.84968738,350.0,90582.44668,21250,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,12.85384375,325.0,111620.4341,19875,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,16.90138636,325.0,50268.674,28125,35,Online
+2021,South,Arkansas,Little R,Women's Apparel,19.9581694,425.0,163608.8268,51275,40,Online
+2021,South,Arkansas,Little R,Men's Street Footwear,7.55294686,600.0,139576.9903,72800,40,Online
+2021,South,Arkansas,Little R,Men's Athletic Footwear,13.64050346,425.0,114963.1408,29500,35,Online
+2021,South,Arkansas,Little R,Women's Street Footwear,25.32687016,300.0,125001.349,24000,40,Online
+2021,South,Arkansas,Little R,Women's Athletic Footwear,25.02797304,275.0,240338.091,22500,40,Online
+2021,South,Arkansas,Little R,Men's Apparel,18.84566737,275.0,62151.89632,28250,35,Online
+2020,Northeast,New York,New York,Men's Apparel,25.77817958,270.0,105135.3374,6458,45,Online
+2020,Northeast,New York,New York,Women's Apparel,22.18612547,290.0,111464.9303,6798,37,Online
+2020,Northeast,New York,New York,Men's Street Footwear,16.70049666,360.0,198547.422,12016,62,Online
+2020,Northeast,New York,New York,Men's Athletic Footwear,23.84704682,270.0,104664.105,5350,44,Online
+2020,Northeast,New York,New York,Women's Street Footwear,18.850511,268.0,7807.145075,5259,47,Online
+2020,Northeast,New York,New York,Women's Athletic Footwear,29.36560839,252.0,161730.7043,5184,46,Online
+2020,Northeast,New York,New York,Men's Apparel,30.09232521,252.0,199089.4495,5461,40,Online
+2020,Northeast,New York,New York,Women's Apparel,20.04359842,280.0,103158.0087,6652,40,Online
+2020,Northeast,New York,New York,Men's Apparel,15.08207722,236.0,109168.9664,6510,42,Online
+2020,Northeast,New York,New York,Women's Apparel,11.65812328,290.0,194215.6375,7972,38,Online
+2020,Northeast,New York,New York,Men's Street Footwear,28.72107337,299.0,173712.7189,10794,60,Online
+2020,Northeast,New York,New York,Men's Athletic Footwear,12.64781505,273.0,77372.0762,6446,43,Online
+2020,Northeast,New York,New York,Women's Street Footwear,25.13881978,258.0,187711.6257,6341,48,Online
+2020,Northeast,New York,New York,Women's Athletic Footwear,13.46631035,252.0,233413.2816,6260,49,Online
+2020,Northeast,New York,New York,Men's Apparel,18.01378208,254.0,155868.8633,6625,42,Online
+2020,Northeast,New York,New York,Women's Apparel,20.93185021,263.0,163028.5713,6735,37,Online
+2020,Northeast,New York,New York,Men's Street Footwear,22.97448271,312.0,78166.45582,12934,64,Online
+2020,Northeast,New York,New York,Men's Athletic Footwear,29.80528131,300.0,133363.2967,6530,42,Online
+2020,Northeast,New York,New York,Women's Street Footwear,29.73957944,285.0,214225.509,7539,47,Online
+2020,Northeast,New York,New York,Women's Athletic Footwear,25.98165397,225.0,115581.793,5215,46,Online
+2020,Northeast,New York,New York,Men's Apparel,18.84021647,261.0,172466.1672,6566,43,Online
+2020,Northeast,New York,New York,Women's Apparel,14.36467953,290.0,131485.4146,6972,35,Online
+2020,South,Texas,Houston,Men's Apparel,10.14143428,147.0,95766.10362,2174,42,Online
+2020,South,Texas,Houston,Women's Apparel,19.05020869,232.0,269406.4385,5048,61,Online
+2020,South,Texas,Houston,Men's Street Footwear,17.32034899,268.0,166381.251,3772,48,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,18.77230037,259.0,155605.4588,4842,46,Online
+2020,South,Texas,Houston,Women's Street Footwear,24.64908959,225.0,129337.637,3425,48,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,7.369379974,189.0,141301.9919,4371,58,Online
+2020,South,Texas,Houston,Men's Apparel,27.46272182,168.0,112857.7974,2056,40,Online
+2020,South,Texas,Houston,Women's Apparel,16.66266634,276.0,138267.2335,6021,63,Online
+2020,South,Texas,Houston,Men's Street Footwear,22.29793361,238.0,119116.906,4282,47,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,18.39753209,238.0,158087.5071,4996,45,Online
+2020,South,Texas,Houston,Women's Street Footwear,14.70225265,232.0,163559.3048,4584,49,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,15.69176375,203.0,112190.9538,4714,57,Online
+2020,South,Texas,Houston,Men's Apparel,17.84617632,169.0,186143.5373,3929,45,Online
+2020,South,Texas,Houston,Women's Apparel,10.95000221,250.0,218893.1519,7175,64,Online
+2020,South,Texas,Houston,Men's Street Footwear,17.63144587,238.0,140525.6223,3806,45,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,16.90107357,238.0,151399.5175,4996,46,Online
+2020,South,Texas,Houston,Women's Street Footwear,19.83368684,319.0,129649.2021,5180,45,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,11.87883242,210.0,198043.679,4560,60,Online
+2020,South,Texas,Houston,Men's Apparel,22.10607298,196.0,202578.116,3036,40,Online
+2020,South,Texas,Houston,Women's Apparel,21.93133246,293.0,177570.355,8377,63,Online
+2020,South,Texas,Houston,Men's Street Footwear,19.04598638,268.0,111577.1998,4916,49,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,22.19018089,259.0,147621.3879,4061,45,Online
+2020,South,Texas,Houston,Women's Street Footwear,21.57084326,297.0,216029.1005,5158,46,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,18.08070227,189.0,94232.61406,4182,59,Online
+2020,South,Texas,Houston,Men's Apparel,16.20393405,169.0,184327.4181,2929,40,Online
+2020,South,Texas,Houston,Women's Apparel,12.64324711,225.0,104769.8022,6035,65,Online
+2020,South,Texas,Houston,Men's Street Footwear,17.7875925,255.0,99211.51663,5122,48,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,8.352502567,213.0,169821.0395,4733,46,Online
+2020,South,Texas,Houston,Women's Street Footwear,25.08605638,234.0,146841.3062,5076,49,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,13.04120823,181.0,124669.8679,4507,55,Online
+2020,South,Texas,Houston,Men's Apparel,20.84510176,175.0,283860.5685,3700,43,Online
+2020,South,Texas,Houston,Women's Apparel,12.08522204,213.0,75537.36857,6065,64,Online
+2020,South,Texas,Houston,Men's Street Footwear,15.21344664,240.0,162561.042,5056,50,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,14.98945742,216.0,140718.9871,4288,47,Online
+2020,South,Texas,Houston,Women's Street Footwear,13.41279309,188.0,173083.2255,4024,47,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,17.47334193,168.0,173317.1937,4560,58,Online
+2020,South,Texas,Houston,Men's Apparel,13.90698189,150.0,206599.0395,2300,41,Online
+2020,South,Texas,Houston,Women's Apparel,18.92059071,210.0,202259.7906,6113,62,Online
+2020,South,Texas,Houston,Men's Street Footwear,7.861647354,234.0,188123.1474,4006,49,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,16.88223499,243.0,184818.0025,5044,49,Online
+2020,South,Texas,Houston,Women's Street Footwear,10.91530116,206.0,128256.6803,4682,48,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,17.61470731,203.0,49278.69225,5744,55,Online
+2020,South,Texas,Houston,Men's Apparel,21.59524628,195.0,172322.3237,3190,45,Online
+2020,South,Texas,Houston,Women's Apparel,17.82587015,247.0,219979.0991,7259,62,Online
+2020,South,Texas,Houston,Men's Street Footwear,16.83155013,238.0,95556.70907,4758,48,Online
+2020,South,Texas,Houston,Men's Athletic Footwear,15.67447244,285.0,247545.9749,6254,48,Online
+2020,South,Texas,Houston,Women's Street Footwear,27.31694128,255.0,199512.3385,5198,49,Online
+2020,South,Texas,Houston,Women's Athletic Footwear,17.29622432,182.0,96434.37606,4554,58,Online
+2020,South,Texas,Houston,Men's Apparel,18.56641334,169.0,65161.80333,3098,45,Online
+2020,South,Texas,Houston,Women's Apparel,21.72754041,261.0,109027.2564,8383,62,Online
+2021,West,Hawaii,Honolulu,Men's Apparel,13.28406211,147.0,164870.6943,2014,27,Online
+2021,West,Hawaii,Honolulu,Women's Apparel,16.25358653,88.0,120073.6368,3336,53,Online
+2021,West,Hawaii,Honolulu,Men's Street Footwear,16.54191987,149.0,178856.2684,3238,36,Online
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,8.01554704,149.0,135517.3167,3028,33,Online
+2021,West,Hawaii,Honolulu,Women's Street Footwear,18.64172729,105.0,149983.8939,2720,39,Online
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,8.879437228,85.0,129779.7091,2270,40,Online
+2021,West,Hawaii,Honolulu,Men's Apparel,20.39359378,91.0,97382.10206,1461,30,Online
+2021,West,Hawaii,Honolulu,Women's Apparel,14.93163836,105.0,122852.804,3880,53,Online
+2021,West,Hawaii,Honolulu,Men's Street Footwear,22.4938933,124.0,153090.8421,2448,40,Online
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,9.983805811,138.0,219794.6717,2418,30,Online
+2021,West,Hawaii,Honolulu,Women's Street Footwear,14.87640613,87.0,149602.714,1872,35,Online
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,29.32349693,83.0,137219.1969,1150,37,Online
+2021,West,Californ,San Fran,Men's Street Footwear,18.01759965,700.0,161115.3078,98450,40,Outlet
+2021,West,Californ,San Fran,Men's Athletic Footwear,11.07665786,700.0,185268.3076,78150,25,Outlet
+2021,West,Californ,San Fran,Women's Street Footwear,18.744526,700.0,157089.8985,126150,40,Outlet
+2021,West,Californ,San Fran,Women's Athletic Footwear,12.01277016,550.0,223866.0473,86475,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,18.23631607,500.0,117900.8489,137500,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,18.73370415,700.0,153766.3471,63150,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,14.53566657,750.0,164894.8019,105625,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,21.46468306,650.0,106601.5266,73925,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,13.56605899,675.0,186215.2615,121037,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,17.2865291,525.0,189983.0044,82362,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,26.31201874,450.0,206115.4666,123250,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,16.74904232,650.0,177591.9282,58925,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,26.6136406,800.0,133935.3948,112800,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,24.92367532,650.0,84923.52232,73925,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,11.0446644,650.0,185021.3695,117925,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,7.965565741,550.0,150170.6614,86475,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,18.22810515,425.0,105463.5211,116125,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,24.21579076,625.0,148480.0864,56812,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,16.07128033,800.0,6365.776615,144600,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,22.43443267,600.0,109098.4381,75000,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,16.40208098,625.0,124627.0679,125125,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,21.32258013,525.0,140225.3091,82362,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,10.69251247,425.0,163463.6212,116125,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,16.5540391,600.0,83661.31791,78900,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,17.85949352,800.0,140535.4591,144600,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,9.996442383,650.0,118286.233,81250,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,12.46912939,650.0,159068.0992,130250,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,12.72436673,550.0,205467.7143,86475,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,24.24563424,450.0,208353.5474,123250,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,22.55146103,625.0,220834.841,81062,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,10.53715953,900.0,95699.29114,162050,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,23.3899174,750.0,24136.99072,93750,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,12.68066186,750.0,199908.14,150750,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,30.53045864,625.0,187620.3952,98812,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,30.21053557,500.0,171563.6546,137500,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,24.08782181,800.0,261104.0024,104200,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,20.67862018,950.0,152500.3281,171275,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,24.52138354,800.0,97436.65961,100000,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,23.06070197,750.0,204104.8734,150750,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,27.61968116,650.0,200539.7129,102925,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,13.84234626,700.0,166927.5877,192500,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,30.47252006,700.0,175813.3847,91550,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,27.00656694,900.0,135673.2141,180500,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,14.07770451,850.0,163141.1427,116675,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,14.63033926,725.0,148338.8249,145625,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,23.35560939,675.0,157421.6956,118375,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,19.19974199,675.0,103895.8117,222050,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,20.53845788,650.0,48866.50879,84225,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,18.72475259,850.0,180324.0736,170250,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,4.1757571,850.0,240316.5081,116675,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,11.82948038,700.0,174819.2831,140500,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,23.35907737,650.0,152400.5263,113250,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,22.44086129,650.0,150166.4246,214900,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,20.84437441,700.0,115936.9248,91550,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,5.322252406,800.0,162608.3299,160000,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,8.844487856,800.0,228022.5088,110400,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,27.97196055,650.0,157236.9639,130250,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,19.80796451,625.0,211977.4136,109125,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,17.70436262,600.0,61957.83829,198600,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,3.33819199,650.0,225355.1315,84225,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,15.40493561,825.0,202789.1282,165125,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,24.4126143,825.0,61878.78219,113537,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,19.64798584,675.0,134642.0006,135375,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,6.495528462,650.0,192369.0489,113250,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,7.046862713,600.0,134982.7548,198600,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,18.36506783,700.0,136138.5665,91550,20,Outlet
+2021,West,Californ,Los Ange,Men's Street Footwear,10.99785512,900.0,143921.7452,180500,40,Outlet
+2021,West,Californ,Los Ange,Men's Athletic Footwear,24.08508113,900.0,165441.6578,123950,25,Outlet
+2021,West,Californ,Los Ange,Women's Street Footwear,25.24418519,700.0,191915.3312,140500,40,Outlet
+2021,West,Californ,Los Ange,Women's Athletic Footwear,19.17136585,700.0,260930.5831,122500,35,Outlet
+2021,West,Californ,Los Ange,Men's Apparel,17.77334735,625.0,141259.3626,206750,55,Outlet
+2021,West,Californ,Los Ange,Women's Apparel,12.2134719,725.0,189172.9444,94712,20,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Street Footwear,26.2054833,475.0,174067.2423,74662,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Men's Athletic Footwear,22.46034879,475.0,248702.4503,64137,30,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Street Footwear,24.37747844,475.0,160153.007,96137,45,Outlet
+2020,Midwest,Minnesot,Minneapo,Women's Athletic Footwear,21.27930457,325.0,96397.78964,58462,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,10.07593489,275.0,193355.7515,82375,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,19.02548358,475.0,76459.38999,53137,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,10.59056199,525.0,161463.4296,82837,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,20.7753156,425.0,110511.0826,57912,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,13.2706855,450.0,181981.8377,91025,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,13.02296448,300.0,171008.2967,54350,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,10.17703764,225.0,202410.5442,67125,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,29.21284778,425.0,78574.59714,47912,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,25.87080668,575.0,164215.2181,90012,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,22.8340728,425.0,70964.46715,57912,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,15.03201785,425.0,204417.3099,86912,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,18.14476967,325.0,150751.691,58462,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,20.85744811,200.0,197113.0862,60000,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,16.74487676,400.0,171163.0762,45800,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,27.10199208,575.0,51982.72543,116587,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,24.83207553,375.0,165103.609,50687,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,18.1429917,400.0,71934.20365,81800,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,29.12440829,300.0,183576.0468,48200,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,25.52118887,200.0,145655.5076,54000,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,23.88361004,375.0,167714.083,56250,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,29.26007066,575.0,146580.0608,103300,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,14.38281461,425.0,108029.5708,57912,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,26.53843015,425.0,90911.01891,86912,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,15.05344934,325.0,156691.7846,52300,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,34.07734843,225.0,130812.183,60012,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,25.86083523,400.0,214299.8533,60400,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,14.05144586,675.0,36188.36187,121700,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,24.08547758,525.0,159785.6699,70362,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,23.94077785,550.0,209893.4552,111475,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,17.49238545,425.0,218840.0672,68700,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,21.74122275,300.0,195892.6605,81350,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,26.80748897,600.0,243168.7619,90600,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,20.61469205,750.0,141900.6672,135000,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,15.65138547,600.0,96044.37828,81700,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,19.23996868,550.0,199663.4069,111475,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,12.89224153,450.0,117550.0713,72800,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,20.95110788,475.0,188411.1063,128137,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,24.75145253,475.0,68621.42268,71850,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,12.6997086,675.0,160793.9852,136037,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,17.00586365,625.0,134537.7903,103437,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,18.61509648,500.0,151848.306,112500,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,15.51047171,425.0,213571.6005,76912,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,10.30263352,425.0,139955.6678,140337,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,21.13733805,400.0,221907.8876,60400,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,25.10951181,600.0,57457.44631,121700,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,18.60360343,600.0,214255.5718,90000,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,25.62551123,450.0,226557.0708,91025,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,24.17847912,400.0,108873.208,72800,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,26.14841959,400.0,178272.1698,132200,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,23.37815098,450.0,212832.6221,67700,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,12.59753137,550.0,88530.52015,111475,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,14.20152314,550.0,135094.7274,82750,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,24.70633278,400.0,153812.114,81800,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,19.42018543,375.0,143961.5925,67687,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,22.03697722,350.0,100346.3444,115925,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,26.99650338,400.0,166817.4533,60400,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,17.45153531,575.0,203675.8748,103300,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,18.88301389,575.0,222108.1821,77587,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,14.68229659,425.0,259563.9559,76700,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,13.27299647,425.0,174618.8351,68700,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,13.65305038,375.0,170422.0368,123062,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,19.42984881,475.0,139466.9602,71850,25,Outlet
+2021,Midwest,Montana,Billings,Men's Street Footwear,5.449125851,675.0,83046.17184,136037,45,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,11.2790927,675.0,104549.2588,101375,30,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,19.70335851,475.0,223309.4034,96137,45,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,14.41256024,475.0,174518.7413,85137,40,Outlet
+2021,Midwest,Montana,Billings,Men's Apparel,13.78210761,400.0,221553.8261,132200,60,Outlet
+2021,Midwest,Montana,Billings,Women's Apparel,22.23743282,500.0,143038.3812,75000,25,Outlet
+2021,Northeast,New York,Albany,Women's Street Footwear,15.03876592,625.0,117570.3892,85437,25,In-store
+2021,Northeast,New York,Albany,Women's Athletic Footwear,26.54848535,575.0,123990.4483,94162,30,In-store
+2021,Northeast,New York,Albany,Men's Apparel,14.42497179,575.0,179690.2801,130737,35,In-store
+2021,Northeast,New York,Albany,Women's Apparel,12.40291612,675.0,110898.0807,236725,50,In-store
+2021,Northeast,New York,Albany,Men's Street Footwear,15.83846598,800.0,138398.2683,160200,50,In-store
+2021,Northeast,New York,Albany,Men's Athletic Footwear,24.6462889,600.0,188043.0179,72400,30,In-store
+2021,Northeast,New York,Albany,Women's Street Footwear,21.72270127,600.0,169148.3148,63800,35,In-store
+2021,Northeast,New York,Albany,Women's Athletic Footwear,10.43698631,450.0,108513.5133,55575,35,In-store
+2021,Northeast,New York,Albany,Men's Apparel,28.65711013,500.0,145774.0239,75500,30,In-store
+2021,Northeast,New York,Albany,Women's Apparel,17.12434274,600.0,64599.24886,60400,25,In-store
+2021,Northeast,New York,Albany,Men's Street Footwear,19.63740871,850.0,187715.0746,170400,50,In-store
+2021,Northeast,New York,Albany,Men's Athletic Footwear,9.449049806,500.0,174168.6172,60000,30,In-store
+2021,Northeast,New York,Albany,Women's Street Footwear,18.92776644,550.0,94553.83075,57650,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,12.59044937,425.0,163999.7688,52487,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,28.86869785,500.0,117887.4789,75500,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,21.09074348,600.0,141088.7204,60400,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,18.5577746,820.0,204182.8758,164280,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,16.8519496,525.0,66203.55918,63100,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,12.16660558,550.0,61596.32315,57650,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,19.67183656,400.0,166882.6004,49400,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,14.84169338,450.0,167603.2725,67250,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,20.32898543,550.0,165724.1009,55200,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,24.17669236,800.0,141180.3935,160200,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,19.8655224,500.0,55110.92866,60000,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,32.35191319,500.0,163061.4335,52500,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,13.59282004,425.0,96280.80945,52487,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,14.34869302,425.0,93214.16034,63125,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,33.46980639,550.0,124728.0592,55200,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,13.20920742,820.0,86011.08879,205100,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,27.29635662,525.0,55281.91364,70362,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,12.04147691,500.0,93429.83118,70000,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,25.53320716,450.0,230103.2067,63800,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,12.28441427,475.0,113288.9818,71375,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,15.39242381,600.0,185440.8662,82300,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,25.71095487,850.0,84142.53372,212250,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,11.06409664,600.0,96515.59778,81700,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,20.24018008,525.0,149358.8663,73100,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,19.25854374,500.0,111683.4493,70000,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,8.712882681,500.0,123530.5579,75500,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,14.16997489,650.0,164185.2645,89575,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,20.78847736,875.0,75444.55759,218375,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,15.70550277,625.0,129446.1592,84812,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,16.13944275,550.0,189424.9913,77200,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,15.40665813,500.0,117403.0632,70000,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,23.46721305,525.0,198928.8356,78625,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,13.97946025,700.0,199759.2403,96850,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,19.07239231,850.0,136633.0858,212250,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,30.08745512,625.0,197724.3575,84812,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,13.42091385,550.0,-9221.032067,77200,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,18.09709222,525.0,71663.30595,73100,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,21.76652994,500.0,74511.63742,75500,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,13.45041714,675.0,129550.6102,92712,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,18.50746509,800.0,175503.345,200000,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,26.18990367,600.0,116765.4612,81700,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,10.82811478,525.0,120429.8859,73100,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,16.33701801,500.0,90190.44895,70000,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,27.28187097,500.0,225138.5502,75500,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,20.26088525,600.0,116395.5279,82300,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,8.251217468,775.0,90502.15302,213262,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,18.74110459,600.0,106417.9837,81700,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,15.03639526,500.0,196019.3125,78250,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,12.28417463,475.0,142924.2638,74137,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,13.66656965,475.0,148765.9899,78612,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,32.13846199,600.0,200134.9315,90600,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,6.622201029,750.0,181965.8758,206125,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,12.81423353,575.0,90046.54412,77587,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Street Footwear,24.03577239,520.0,139775.2532,81340,35,In-store
+2021,West,Wyoming,Cheyenne,Women's Athletic Footwear,7.63780091,500.0,163673.2165,78250,35,In-store
+2021,West,Wyoming,Cheyenne,Men's Apparel,19.1029061,475.0,107284.2918,78612,30,In-store
+2021,West,Wyoming,Cheyenne,Women's Apparel,21.27728084,575.0,134840.1731,86450,25,In-store
+2021,West,Wyoming,Cheyenne,Men's Street Footwear,18.86624071,800.0,98002.93863,220400,50,In-store
+2021,West,Wyoming,Cheyenne,Men's Athletic Footwear,12.0429953,600.0,129664.1726,81700,30,In-store
+2021,West,Arizona,Phoenix,Women's Street Footwear,18.6826598,425.0,109569.4582,66912,35,Online
+2021,West,Arizona,Phoenix,Women's Athletic Footwear,30.21171957,425.0,128803.5419,66912,35,Online
+2021,West,Arizona,Phoenix,Men's Apparel,21.45135681,350.0,233997.0732,57925,30,Online
+2021,West,Arizona,Phoenix,Women's Apparel,15.68777461,450.0,143578.0775,67700,25,Online
+2021,West,Arizona,Phoenix,Men's Street Footwear,21.04673904,475.0,250411.5,58662,35,Online
+2021,West,Arizona,Phoenix,Men's Athletic Footwear,19.00860989,475.0,134413.3701,85137,40,Online
+2021,West,Arizona,Phoenix,Women's Street Footwear,14.41415269,475.0,181248.3174,74137,35,Online
+2021,West,Arizona,Phoenix,Women's Athletic Footwear,23.29700915,325.0,55842.8702,51462,35,Online
+2021,West,Arizona,Phoenix,Men's Apparel,16.69312989,275.0,38636.86302,41375,30,Online
+2021,West,Arizona,Phoenix,Women's Apparel,30.03941874,475.0,56220.84041,53137,25,Online
+2021,West,Arizona,Phoenix,Men's Street Footwear,24.27847559,525.0,88230.98126,64837,35,Online
+2021,West,Arizona,Phoenix,Men's Athletic Footwear,15.55823575,425.0,68728.13012,76912,40,Online
+2021,West,Arizona,Phoenix,Women's Street Footwear,24.21291038,425.0,103989.2448,66912,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,17.84437003,275.0,199648.7762,43237,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,17.87698862,200.0,175087.9006,30000,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,24.0040202,400.0,277922.8143,45800,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,25.67227975,550.0,141213.7474,86475,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,15.80725523,400.0,125326.3745,88200,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,6.025824069,400.0,127877.2436,77200,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,8.706601391,275.0,205306.0022,52512,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,27.12736597,175.0,155349.1829,31050,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,9.839941707,375.0,87555.23727,51062,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,13.95072191,550.0,125197.6078,105025,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,3.700384664,350.0,47491.24408,84100,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,10.93695164,400.0,253671.5165,84400,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,20.96842897,300.0,174627.2245,57650,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,17.67330466,200.0,77387.35362,36200,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,18.95745129,375.0,188906.8059,70812,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,5.006915551,575.0,136893.5459,110162,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,15.81411588,425.0,75891.15172,102550,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,16.31255727,450.0,148122.6804,94700,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,21.29722699,350.0,182658.6616,67925,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,10.60128004,250.0,140968.5392,45500,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,8.738918501,425.0,167756.1538,79187,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,22.95014573,700.0,150942.1887,134850,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,17.70310502,550.0,172822.2811,132300,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,16.45624798,550.0,190481.0869,115300,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,25.10582524,425.0,120396.1426,81337,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,30.57690602,300.0,149806.4623,54800,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,29.10234933,600.0,98121.95857,112500,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,17.22452839,750.0,216341.0858,144125,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,9.958030861,600.0,80003.92976,144600,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,26.22935443,550.0,206237.2306,115300,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,24.40432805,450.0,254087.5185,86475,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,16.23954658,500.0,174242.7704,90000,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,8.408971664,500.0,86196.52412,93750,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,10.52207875,700.0,143907.4744,147200,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,17.26035187,650.0,138884.9661,169225,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,13.21238621,525.0,160152.8669,110150,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,16.26850904,475.0,180145.8261,99850,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,12.01197866,475.0,77753.90403,99325,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,15.90268196,450.0,81875.71807,84375,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,18.04284712,625.0,133242.1263,109125,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,18.17663564,625.0,225566.4535,137437,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,23.31475112,475.0,263241.799,83375,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,21.71545802,425.0,167701.3804,74125,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,15.33000023,425.0,99506.53709,76550,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,18.72856569,475.0,200342.1673,77087,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,19.64648379,550.0,233345.7223,96750,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,28.23173106,550.0,157765.8733,121025,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,22.53822731,375.0,164403.1286,65875,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,16.14185454,350.0,234586.5884,61750,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,16.35375415,325.0,161449.3218,58950,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,16.68487764,375.0,200567.0471,70812,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,13.2805567,550.0,147630.749,115300,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,13.68671489,600.0,173142.1967,156900,40,Online
+2021,West,New Mexi,Albuquer,Women's Street Footwear,19.06164098,450.0,172229.6604,94700,35,Online
+2021,West,New Mexi,Albuquer,Women's Athletic Footwear,21.513123,425.0,134818.9125,89550,35,Online
+2021,West,New Mexi,Albuquer,Men's Apparel,25.5216876,375.0,212607.9169,78625,30,Online
+2021,West,New Mexi,Albuquer,Women's Apparel,29.03634363,500.0,154349.8835,93750,25,Online
+2021,West,New Mexi,Albuquer,Men's Street Footwear,13.16428103,700.0,127188.0317,147200,35,Online
+2021,West,New Mexi,Albuquer,Men's Athletic Footwear,21.25137836,700.0,188307.8278,182550,40,Online
+2021,South,Oklahoma,Oklahoma,Women's Apparel,12.14690577,325.0,151970.1879,39750,40,Online
+2021,South,Oklahoma,Oklahoma,Men's Street Footwear,22.99404036,475.0,68643.68986,47187,40,Online
+2021,South,Oklahoma,Oklahoma,Men's Athletic Footwear,10.13258593,300.0,207208.7118,15500,35,Online
+2021,South,Oklahoma,Oklahoma,Women's Street Footwear,25.12444453,245.0,168558.4147,24125,40,Online
+2021,South,Oklahoma,Oklahoma,Women's Athletic Footwear,21.98734061,300.0,87056.99287,66650,40,Online
+2021,South,Oklahoma,Oklahoma,Men's Apparel,26.52296618,275.0,182282.2942,72062,35,Online
+2021,South,Oklahoma,Oklahoma,Women's Apparel,16.73342356,375.0,131073.5531,112812,40,Online
+2021,South,Oklahoma,Oklahoma,Men's Street Footwear,21.89436328,625.0,93384.01212,175375,40,Online
+2021,South,Oklahoma,Oklahoma,Men's Athletic Footwear,23.56303418,425.0,179875.3701,89550,35,Online
+2021,South,Oklahoma,Oklahoma,Women's Street Footwear,24.28070212,375.0,96437.29147,90250,40,Online
+2021,South,Oklahoma,Oklahoma,Women's Athletic Footwear,26.85026996,325.0,154036.2071,78950,40,Online
+2021,South,Oklahoma,Oklahoma,Men's Apparel,17.18717946,325.0,184683.0863,79275,35,Online
+2020,Northeast,New York,New York,Men's Street Footwear,16.70892422,900.0,218709.4029,78250,35,Outlet
+2020,Northeast,New York,New York,Men's Athletic Footwear,25.53618345,900.0,83030.34393,110150,35,Outlet
+2020,Northeast,New York,New York,Women's Street Footwear,16.65997541,700.0,189690.7013,85450,35,Outlet
+2020,Northeast,New York,New York,Women's Athletic Footwear,26.26237539,700.0,95962.06625,110450,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,28.52377169,550.0,85267.43627,66200,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,17.16594763,700.0,158032.0484,122450,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,8.052007176,850.0,128634.3925,74125,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,22.51315493,850.0,133465.0834,104975,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,24.59460044,675.0,139713.2609,82362,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,13.68045417,625.0,165987.8802,98187,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,11.8721567,500.0,102451.1583,60000,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,17.3868309,700.0,216145.5916,122450,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,3.126856324,875.0,124845.0797,91625,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,13.62854875,875.0,180706.7283,122500,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,20.24007949,700.0,189414.7857,85450,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,20.24582076,600.0,164682.3296,108400,45,Outlet
+2020,South,Texas,Houston,Men's Apparel,10.22794428,500.0,143314.6425,67250,30,Outlet
+2020,South,Texas,Houston,Women's Apparel,17.29288801,650.0,115343.9666,130600,50,Outlet
+2020,South,Texas,Houston,Men's Street Footwear,21.24601648,900.0,228992.287,94700,35,Outlet
+2020,South,Texas,Houston,Men's Athletic Footwear,20.31584294,900.0,184512.9784,126600,35,Outlet
+2020,South,Texas,Houston,Women's Street Footwear,21.31936286,725.0,215116.2221,88537,35,Outlet
+2020,South,Texas,Houston,Women's Athletic Footwear,17.21778936,625.0,156619.2465,112500,45,Outlet
+2021,Midwest,Illinois,Chicago,Men's Street Footwear,17.03251429,725.0,164452.497,43450,30,Outlet
+2021,Midwest,Illinois,Chicago,Men's Athletic Footwear,23.94417724,725.0,129588.2902,65175,30,Outlet
+2021,Midwest,Illinois,Chicago,Women's Street Footwear,11.24744812,525.0,132441.7819,47575,30,Outlet
+2021,Midwest,Illinois,Chicago,Women's Athletic Footwear,19.79081217,525.0,205030.7133,73837,40,Outlet
+2021,South,Texas,Dallas,Men's Apparel,18.3258034,375.0,143125.5893,37500,25,Outlet
+2021,South,Texas,Dallas,Women's Apparel,22.9886341,525.0,155475.7364,82837,45,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,19.50209571,675.0,127934.7092,50687,30,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,18.73028171,650.0,125113.8813,68275,30,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,13.22243879,475.0,113323.9804,49662,30,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,12.26495271,425.0,166119.3664,59487,40,Outlet
+2021,South,Texas,Dallas,Men's Apparel,23.84691669,300.0,177665.9088,30200,25,Outlet
+2021,South,Texas,Dallas,Women's Apparel,18.67723914,500.0,110585.3179,78750,45,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,16.79260531,675.0,189069.4699,70025,35,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,21.38601715,675.0,140641.337,94700,35,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,16.12139811,500.0,94885.55293,52500,35,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,25.08816837,400.0,129371.4136,63400,45,Outlet
+2021,South,Texas,Dallas,Men's Apparel,26.14454481,300.0,154668.9957,36200,30,Outlet
+2021,South,Texas,Dallas,Women's Apparel,21.77844954,450.0,173058.3175,78575,50,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,13.6568908,700.0,142744.0609,49400,35,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,20.05883006,700.0,130024.6047,73100,35,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,9.211686013,525.0,160307.6269,45312,35,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,25.24299676,425.0,155938.4648,57275,45,Outlet
+2021,South,Texas,Dallas,Men's Apparel,16.38370751,325.0,187560.301,34137,30,Outlet
+2021,South,Texas,Dallas,Women's Apparel,26.1166829,600.0,232458.8718,90800,50,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,22.73807684,750.0,158613.9937,52500,35,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,6.490871312,775.0,84107.39194,81325,35,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,21.64788893,625.0,151372.3349,54562,35,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,10.49267475,550.0,164666.5131,86925,45,Outlet
+2021,South,Texas,Dallas,Men's Apparel,32.09622393,450.0,108959.1441,67250,30,Outlet
+2021,South,Texas,Dallas,Women's Apparel,25.99271472,800.0,111124.7617,180600,50,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,20.04525678,800.0,126164.6986,126600,35,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,11.83706103,800.0,255196.84,140000,35,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,17.74303061,650.0,172867.6772,102925,35,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,20.25368642,600.0,132023.0724,121700,45,Outlet
+2021,South,Texas,Dallas,Men's Apparel,17.24477957,500.0,114334.0321,75500,30,Outlet
+2021,South,Texas,Dallas,Women's Apparel,15.54810267,875.0,229397.2297,240812,50,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,16.30964331,825.0,157343.794,148712,40,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,19.00706726,825.0,126612.8718,165125,40,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,15.70100893,975.0,167439.1485,175387,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,11.29431902,575.0,157875.9655,129587,50,Outlet
+2021,South,Texas,Dallas,Men's Apparel,26.245553,575.0,175351.2509,100875,35,Outlet
+2021,South,Texas,Dallas,Women's Apparel,30.01326921,850.0,72211.01391,280100,55,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,30.35184602,800.0,177803.5366,160000,40,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,9.030503573,800.0,140772.7333,176400,40,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,14.63411245,975.0,161063.1821,195875,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,12.70344895,525.0,206065.9372,131625,50,Outlet
+2021,South,Texas,Dallas,Men's Apparel,20.85441512,525.0,117588.9105,101887,35,Outlet
+2021,South,Texas,Dallas,Women's Apparel,15.811944,775.0,167282.2415,255650,55,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,25.94882065,725.0,162580.6273,159987,40,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,18.42093518,675.0,97133.74038,148712,40,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,19.792309,725.0,123144.839,174350,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,22.77661059,450.0,161663.7742,135700,50,Outlet
+2021,South,Texas,Dallas,Men's Apparel,21.89383454,450.0,101087.5823,86475,35,Outlet
+2021,South,Texas,Dallas,Women's Apparel,25.93720127,675.0,202438.4365,185375,55,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,27.37032523,625.0,59045.97883,100500,40,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,21.03370066,625.0,177337.4363,100500,40,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,16.67635724,575.0,69150.6847,103587,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,10.37033259,425.0,170697.1753,95912,50,Outlet
+2021,South,Texas,Dallas,Men's Apparel,17.15466907,400.0,134123.4731,56600,35,Outlet
+2021,South,Texas,Dallas,Women's Apparel,27.01274801,575.0,49062.32588,158875,55,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,20.72718007,725.0,150813.8976,116900,40,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,25.67243714,725.0,13539.79498,116900,40,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,23.33404084,650.0,133921.5757,169225,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,12.15626609,500.0,111734.6194,162250,50,Outlet
+2021,South,Texas,Dallas,Men's Apparel,12.47773242,475.0,171395.6659,99850,35,Outlet
+2021,South,Texas,Dallas,Women's Apparel,16.87746205,675.0,109209.9302,259725,55,Outlet
+2021,South,Texas,Dallas,Men's Street Footwear,6.326629984,825.0,140384.0768,198950,40,Outlet
+2021,South,Texas,Dallas,Men's Athletic Footwear,29.98737243,825.0,151522.6202,198950,40,Outlet
+2021,South,Texas,Dallas,Women's Street Footwear,14.3187023,725.0,113099.2426,188712,40,Outlet
+2021,South,Texas,Dallas,Women's Athletic Footwear,7.305597383,575.0,141153.1932,186737,50,Outlet
+2021,South,Texas,Dallas,Men's Apparel,16.11770673,525.0,167804.7001,110150,35,Outlet
+2021,South,Texas,Dallas,Women's Apparel,16.74919057,775.0,168313.7372,298425,55,Outlet
+2020,Southeast,Florida,Miami,Women's Street Footwear,18.26712012,750.0,133349.668,84375,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,14.91774954,725.0,113184.6166,97262,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,18.43559914,725.0,187636.7973,139987,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,9.30422353,825.0,125477.8903,247950,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,15.46131385,425.0,158912.3348,270000,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,27.33726206,825.0,118455.6846,144125,35,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,13.83997667,725.0,189689.8487,90625,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,23.28843847,700.0,126068.6099,105500,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,11.15812814,700.0,66914.06942,147200,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,16.19915902,825.0,179869.3583,268362,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,19.85139437,975.0,170910.6483,263850,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,26.03302912,800.0,105098.5686,140000,35,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,11.49959733,745.0,147312.884,93725,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,30.80913597,775.0,175440.062,116875,30,In-store
+2020,Southeast,Florida,Miami,Men's Apparel,15.19908974,750.0,92192.86458,170875,35,In-store
+2020,Southeast,Florida,Miami,Women's Apparel,14.02465983,850.0,141838.1775,297950,50,In-store
+2020,Southeast,Florida,Miami,Men's Street Footwear,18.58117647,425.0,162569.5044,314987,45,In-store
+2020,Southeast,Florida,Miami,Men's Athletic Footwear,23.47059725,875.0,159228.5732,168812,35,In-store
+2020,Southeast,Florida,Miami,Women's Street Footwear,22.40856919,825.0,161064.4996,113537,25,In-store
+2020,Southeast,Florida,Miami,Women's Athletic Footwear,20.34432167,775.0,262306.4278,127262,30,In-store
+2021,Midwest,Montana,Billings,Men's Street Footwear,13.25102747,700.0,117135.3867,49400,35,Outlet
+2021,Midwest,Montana,Billings,Men's Athletic Footwear,14.48496476,700.0,125349.7134,73100,35,Outlet
+2021,Midwest,Montana,Billings,Women's Street Footwear,15.90245236,500.0,200085.4002,52500,35,Outlet
+2021,Midwest,Montana,Billings,Women's Athletic Footwear,9.059113364,500.0,156796.4979,78750,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,16.34902282,350.0,117520.0161,42400,30,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,10.95290594,500.0,125094.9699,87750,50,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,25.22007502,650.0,60585.63957,56625,35,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,13.68019513,625.0,177902.1021,76187,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,23.80282038,450.0,193983.2055,55575,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,24.06669709,400.0,94713.18485,63400,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,17.21576166,275.0,147834.3365,33100,30,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,13.48465548,475.0,157393.3782,83662,50,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,23.4358677,650.0,75873.01852,78950,40,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,23.58309974,650.0,99692.95009,104600,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,16.89624997,475.0,168729.3259,57425,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,8.632188371,375.0,249841.2833,65312,50,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,21.41541389,275.0,169576.082,38100,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,10.66686178,425.0,157430.6949,81487,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,20.3351066,675.0,160748.4807,54350,40,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,27.32303651,675.0,146126.5884,67687,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,12.02653476,500.0,257646.7774,40000,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,9.515118393,400.0,106587.8934,50000,50,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,21.38821361,300.0,188014.0698,31000,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,23.67417531,575.0,217636.3848,79437,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,5.015969208,725.0,152557.138,43087,40,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,18.70963401,750.0,155241.9983,75875,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,22.96246237,600.0,212038.0297,48200,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,21.43010941,525.0,196282.3329,78575,50,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,20.07806362,425.0,239059.9714,66912,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,14.61433821,775.0,139032.1608,170100,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,28.62868513,775.0,139306.3302,124100,40,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,17.84369541,775.0,150394.5755,139487,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,11.36502655,650.0,99149.26457,104600,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,24.66080442,600.0,173276.0414,120400,50,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,15.83709979,500.0,148116.6407,78250,35,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,16.66266387,875.0,258754.4338,240375,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,13.29077371,825.0,199341.1076,148300,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,19.3270236,825.0,138611.2052,167712,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,13.21332221,975.0,141154.1769,175900,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,23.87226774,575.0,216720.0919,126300,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,20.89407875,550.0,146249.927,99475,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,16.56601904,825.0,68869.17069,272537,60,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,19.90312524,775.0,132763.99,156487,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,11.13444189,775.0,62456.73929,191262,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,21.27857117,950.0,243924.8442,213750,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,23.13417786,475.0,141667.547,117137,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,20.58134848,475.0,200071.0991,95375,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,12.65718721,725.0,82300.66668,239987,60,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,10.29436217,675.0,187122.5157,151375,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,17.87135575,625.0,115294.1551,140125,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,18.75792435,675.0,193162.5364,167712,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,16.23931336,400.0,221066.1064,121200,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,16.64201505,400.0,200973.1163,80000,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,20.3357575,625.0,203663.6271,168812,60,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,21.87339732,575.0,94994.99418,90012,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,26.82749708,575.0,46423.58013,90012,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,19.97586203,525.0,131457.3308,94100,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,21.77755284,375.0,176072.4802,82500,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,28.64057254,350.0,100118.1797,49225,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,23.04330094,525.0,198716.5692,141362,60,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,25.27559799,675.0,81832.04882,91025,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,13.96189055,675.0,167577.2264,91025,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,21.34478339,600.0,201404.2582,148300,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,16.2205675,475.0,170050.1257,143612,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,16.68707071,450.0,163922.1483,99475,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,5.843193814,650.0,164034.1498,253225,60,Outlet
+2021,South,Tennesse,Knoxvill,Men's Street Footwear,20.48259225,800.0,259126.4573,198400,45,Outlet
+2021,South,Tennesse,Knoxvill,Men's Athletic Footwear,21.28406557,800.0,149115.2602,198400,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Street Footwear,7.563196919,700.0,218990.6403,189200,45,Outlet
+2021,South,Tennesse,Knoxvill,Women's Athletic Footwear,11.38010284,550.0,214567.2869,181300,55,Outlet
+2021,South,Tennesse,Knoxvill,Men's Apparel,17.47794786,500.0,142549.0255,110750,40,Outlet
+2021,South,Tennesse,Knoxvill,Women's Apparel,20.37346378,750.0,154518.3959,292875,60,Outlet
+2021,Midwest,Nebraska,Omaha,Men's Street Footwear,12.84456919,675.0,68046.30677,54350,40,Outlet
+2021,Midwest,Nebraska,Omaha,Men's Athletic Footwear,14.85954829,675.0,97933.61711,81025,40,Outlet
+2021,Midwest,Nebraska,Omaha,Women's Street Footwear,17.53679232,475.0,174260.3245,57425,40,Outlet
+2021,Midwest,Nebraska,Omaha,Women's Athletic Footwear,14.00654398,475.0,108498.0845,83662,50,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,14.56817716,325.0,253713.2335,45300,35,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,13.87966565,475.0,123246.4487,91662,55,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,24.68632939,625.0,213438.8747,62562,40,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,18.9489297,600.0,109511.3878,84100,40,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,17.03540837,425.0,29676.87899,59487,40,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,23.68454181,375.0,103459.5179,65312,50,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,17.81291293,250.0,138093.3963,35000,35,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,14.2715628,450.0,189976.4641,86575,55,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,19.63668455,625.0,95931.35917,84875,45,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,8.048877678,625.0,167696.7368,112500,45,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,21.30806031,450.0,162688.2156,60350,45,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,24.53283263,350.0,84985.16973,67225,55,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,11.27551015,250.0,211235.2361,40000,40,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,21.79501082,400.0,133407.6693,84400,60,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,13.54750055,650.0,135753.3384,58300,45,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,22.9792378,650.0,146261.7022,58300,45,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,8.491175691,475.0,174916.524,32125,45,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,18.90280467,375.0,221188.7981,41500,55,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,20.41805514,275.0,53791.36307,27875,40,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,25.55160154,550.0,195042.7679,66100,60,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,19.91728476,700.0,100108.2066,31000,45,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,8.068649134,725.0,122220.8365,65450,45,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,11.64370463,575.0,167055.8728,38625,45,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,23.48387959,500.0,165102.7156,96750,55,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,19.44641519,400.0,178014.5337,80000,40,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,19.17263832,750.0,95300.69323,202375,60,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,18.98545182,750.0,132068.8607,151375,45,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,16.6842942,750.0,187739.2615,168750,45,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,24.78160868,650.0,153862.2494,131925,45,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,18.23243723,600.0,71124.03224,148700,55,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,15.25057165,500.0,141635.3117,100500,40,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,21.85990709,875.0,202953.519,288812,60,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,16.31220232,825.0,182185.8147,185712,50,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,9.391995782,825.0,184072.9144,206125,50,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,14.82165853,975.0,88137.81707,219387,50,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,16.30220417,575.0,177292.1523,155587,60,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,14.86771715,525.0,209870.8185,118625,45,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,27.96643885,800.0,102910.4368,312800,65,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,21.07826555,750.0,126627.2171,150000,50,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,19.53098564,750.0,152836.1034,206125,50,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,5.854241229,925.0,184675.6077,254087,50,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,15.32245617,425.0,82995.96595,127125,60,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,17.73790233,425.0,129998.6476,105337,45,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,20.29145624,675.0,138344.7661,263050,65,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,8.186514563,625.0,164625.8695,171437,50,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,17.11817917,575.0,144311.259,158162,50,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,21.49142775,625.0,40053.84635,187750,50,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,26.36571414,350.0,187857.1832,126100,60,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,26.56919887,350.0,224140.0145,70575,45,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,11.47549464,575.0,118673.8051,149300,65,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,11.91338868,525.0,188527.5541,78575,50,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,19.07680606,525.0,151294.5618,78575,50,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,13.69261072,475.0,174447.3898,83662,50,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,23.13669079,325.0,198531.2483,68137,60,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,18.19503013,300.0,122655.1032,40000,45,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,29.39241445,475.0,156948.5819,123900,65,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,22.14731496,625.0,135296.41,62250,50,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,24.59694145,625.0,180935.1225,62250,50,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,23.22622858,575.0,213239.758,129587,50,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,16.338779,450.0,132146.5409,121025,60,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,15.41004016,425.0,67273.45314,95125,45,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,13.70448541,625.0,107340.7903,243750,65,Outlet
+2021,South,Alabama,Birmingh,Men's Street Footwear,32.73589288,775.0,158099.7201,232650,50,Outlet
+2021,South,Alabama,Birmingh,Men's Athletic Footwear,8.102298662,775.0,143437.1828,232650,50,Outlet
+2021,South,Alabama,Birmingh,Women's Street Footwear,16.57645955,700.0,181968.9426,227550,50,Outlet
+2021,South,Alabama,Birmingh,Women's Athletic Footwear,19.85858442,550.0,100622.6984,214575,60,Outlet
+2021,South,Alabama,Birmingh,Men's Apparel,11.977607,500.0,127687.0076,135000,45,Outlet
+2021,South,Alabama,Birmingh,Women's Apparel,23.44906609,750.0,83057.45334,341250,65,Outlet
+2021,West,Hawaii,Honolulu,Women's Street Footwear,23.76431379,500.0,182305.9151,100000,25,Outlet
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,12.14817483,500.0,137711.6495,100000,25,Outlet
+2021,West,Hawaii,Honolulu,Men's Apparel,17.9489575,425.0,159273.6819,57825,15,Outlet
+2021,West,Hawaii,Honolulu,Women's Apparel,12.13383767,525.0,183374.0885,199987,40,Outlet
+2021,West,Hawaii,Honolulu,Men's Street Footwear,29.1482311,425.0,100756.8881,51700,30,Outlet
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,14.80402085,425.0,138525.9006,53125,25,Outlet
+2021,West,Hawaii,Honolulu,Women's Street Footwear,12.94321218,425.0,161738.9994,63125,30,Outlet
+2021,West,Hawaii,Honolulu,Women's Athletic Footwear,25.07824915,275.0,171604.8265,41375,30,Outlet
+2021,West,Hawaii,Honolulu,Men's Apparel,26.59277969,225.0,104278.0389,24237,20,Outlet
+2021,West,Hawaii,Honolulu,Women's Apparel,12.9064442,475.0,87751.95475,106375,45,Outlet
+2021,West,Hawaii,Honolulu,Men's Street Footwear,15.21261914,525.0,132781.5732,63100,30,Outlet
+2021,West,Hawaii,Honolulu,Men's Athletic Footwear,21.3855444,425.0,126032.9673,53125,25,Outlet
+2021,West,Hawaii,Honolulu,Women's Street Footwear,23.26797832,425.0,234641.8028,63125,30,Outlet
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,22.92441248,275.0,142165.3327,41375,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Apparel,27.69175605,200.0,154705.9624,22100,20,Outlet
+2021,Southeast,Florida,Orlando,Women's Apparel,17.76161467,400.0,55329.84459,90000,45,Outlet
+2021,Southeast,Florida,Orlando,Men's Street Footwear,23.60758021,550.0,190981.6762,82750,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Athletic Footwear,26.53575833,400.0,88922.50288,60400,25,Outlet
+2021,Southeast,Florida,Orlando,Women's Street Footwear,19.06361263,425.0,183329.5707,82762,30,Outlet
+2021,Southeast,Florida,Orlando,Women's Athletic Footwear,16.82248318,325.0,135647.4424,58950,30,Outlet
+2021,Southeast,Florida,Orlando,Men's Apparel,18.93097889,175.0,173626.0716,22137,20,Outlet
+2021,Southeast,Florida,Orlando,Women's Apparel,22.60232743,375.0,238845.9229,101250,45,Outlet
+2021,Southeast,Virginia,Richmond,Women's Street Footwear,19.75479579,550.0,201281.3507,134850,35,In-store
+2021,Southeast,Virginia,Richmond,Women's Athletic Footwear,9.47510607,550.0,7518.41424,134850,35,In-store
+2021,Southeast,Virginia,Richmond,Men's Apparel,15.06669143,475.0,184123.928,152800,40,In-store
+2021,Southeast,Virginia,Richmond,Women's Apparel,17.68858408,575.0,199341.0069,146887,30,In-store
+2021,Southeast,Virginia,Richmond,Men's Street Footwear,19.30128948,750.0,146022.6907,131625,50,In-store
+2021,Southeast,Virginia,Richmond,Men's Athletic Footwear,13.84023828,550.0,98740.22431,77925,40,In-store
+2021,Southeast,Virginia,Richmond,Women's Street Footwear,22.41886309,550.0,183412.1982,41375,30,In-store
+2021,Southeast,Virginia,Richmond,Women's Athletic Footwear,11.61606881,400.0,146622.1814,42200,35,In-store
+2021,Southeast,Virginia,Richmond,Men's Apparel,31.20244413,450.0,226627.1825,81025,40,In-store
+2021,Southeast,Virginia,Richmond,Women's Apparel,15.93996026,550.0,146071.6895,105925,55,In-store
+2021,Southeast,Virginia,Richmond,Men's Street Footwear,21.10422592,800.0,129282.8256,140800,50,In-store
+2021,Southeast,Virginia,Richmond,Men's Athletic Footwear,20.25778415,450.0,195967.3516,63575,40,In-store
+2021,Southeast,Virginia,Richmond,Women's Street Footwear,26.10760947,500.0,169853.0188,37250,30,In-store
+2021,Midwest,Michigan,Detroit,Women's Athletic Footwear,26.56606588,375.0,230377.5361,39125,35,In-store
+2021,Midwest,Michigan,Detroit,Men's Apparel,26.01996405,450.0,106433.1539,81025,40,In-store
+2021,Midwest,Michigan,Detroit,Women's Apparel,8.778935945,550.0,112050.881,105925,55,In-store
+2021,Midwest,Michigan,Detroit,Men's Street Footwear,17.07973368,770.0,128437.5932,134695,50,In-store
+2021,Midwest,Michigan,Detroit,Men's Athletic Footwear,19.02533535,450.0,64169.68223,63575,40,In-store
+2021,Midwest,Michigan,Detroit,Women's Street Footwear,15.53050222,475.0,144339.4777,35187,30,In-store
+2021,Midwest,Michigan,Detroit,Women's Athletic Footwear,13.40321993,325.0,142493.2998,34750,35,In-store
